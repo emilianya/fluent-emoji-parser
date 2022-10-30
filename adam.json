@@ -1,0 +1,6182 @@
+{
+	"\ud83e\udd47": {
+		"file": "1st place medal",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd48": {
+		"file": "2nd place medal",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd49": {
+		"file": "3rd place medal",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udd70\ufe0f": {
+		"file": "A button blood type",
+		"color": "ffdbf3"
+	},
+	"\ud83c\udd8e": {
+		"file": "Ab button blood type",
+		"color": "ffdbf3"
+	},
+	"\ud83e\uddee": {
+		"file": "Abacus",
+		"color": "ffdbe4"
+	},
+	"\ud83e\ude97": {
+		"file": "Accordion",
+		"color": "ffdbf9"
+	},
+	"\ud83e\ude79": {
+		"file": "Adhesive bandage",
+		"color": "dbffff"
+	},
+	"\ud83c\udf9f\ufe0f": {
+		"file": "Admission tickets",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udea1": {
+		"file": "Aerial tramway",
+		"color": "ffe1db"
+	},
+	"\u2708\ufe0f": {
+		"file": "Airplane",
+		"color": "efe7f3"
+	},
+	"\ud83d\udeec": {
+		"file": "Airplane arrival",
+		"color": "ededed"
+	},
+	"\ud83d\udeeb": {
+		"file": "Airplane departure",
+		"color": "ededed"
+	},
+	"\u23f0": {
+		"file": "Alarm clock",
+		"color": "ffdbf0"
+	},
+	"\u2697\ufe0f": {
+		"file": "Alembic",
+		"color": "dbfff3"
+	},
+	"\ud83d\udc7d": {
+		"file": "Alien",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udc7e": {
+		"file": "Alien monster",
+		"color": "e9ebf0"
+	},
+	"\ud83d\ude91": {
+		"file": "Ambulance",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfc8": {
+		"file": "American football",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udffa": {
+		"file": "Amphora",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udec0": {
+		"file": "Anatomical heart",
+		"color": "ffdbf3"
+	},
+	"\u2693": {
+		"file": "Anchor",
+		"color": "dbffff"
+	},
+	"\ud83d\udca2": {
+		"file": "Anger symbol",
+		"color": "ffdbf0"
+	},
+	"\ud83d\ude20": {
+		"file": "Angry face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc7f": {
+		"file": "Angry face with horns",
+		"color": "eee9f0"
+	},
+	"\ud83d\ude27": {
+		"file": "Anguished face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc1c": {
+		"file": "Ant",
+		"color": "ededed"
+	},
+	"\ud83d\udcf6": {
+		"file": "Antenna bars",
+		"color": "dbf3ff"
+	},
+	"\ud83d\ude30": {
+		"file": "Anxious face with sweat",
+		"color": "ffdbdb"
+	},
+	"\u2652": {
+		"file": "Aquarius",
+		"color": "dbdbff"
+	},
+	"\u2648": {
+		"file": "Aries",
+		"color": "dbdbff"
+	},
+	"\ud83d\ude9b": {
+		"file": "Articulated lorry",
+		"color": "ededed"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udfa8": {
+		"file": "Artist",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfa8": {
+		"file": "Artist palette",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude32": {
+		"file": "Astonished face",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83d\ude80": {
+		"file": "Astronaut",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udfe7": {
+		"file": "Atm sign",
+		"color": "dbf3ff"
+	},
+	"\u269b\ufe0f": {
+		"file": "Atom symbol",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udefa": {
+		"file": "Auto rickshaw",
+		"color": "e4f6e7"
+	},
+	"\ud83d\ude97": {
+		"file": "Automobile",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udd51": {
+		"file": "Avocado",
+		"color": "e7f3ef"
+	},
+	"\ud83e\ude93": {
+		"file": "Axe",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udd71\ufe0f": {
+		"file": "B button blood type",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc76": {
+		"file": "Baby",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc7c": {
+		"file": "Baby angel",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf7c": {
+		"file": "Baby bottle",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udc24": {
+		"file": "Baby chick",
+		"color": "ffe7db"
+	},
+	"\ud83d\udebc": {
+		"file": "Baby symbol",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd19": {
+		"file": "Back arrow",
+		"color": "ededed"
+	},
+	"\ud83d\udc47": {
+		"file": "Backhand index pointing down",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc48": {
+		"file": "Backhand index pointing left",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc49": {
+		"file": "Backhand index pointing right",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc46": {
+		"file": "Backhand index pointing up",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf92": {
+		"file": "Backpack",
+		"color": "ffdbf9"
+	},
+	"\ud83e\udd53": {
+		"file": "Bacon",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udda1": {
+		"file": "Badger",
+		"color": "ededed"
+	},
+	"\ud83c\udff8": {
+		"file": "Badminton",
+		"color": "e2f7f7"
+	},
+	"\ud83e\udd6f": {
+		"file": "Bagel",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udec4": {
+		"file": "Baggage claim",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd56": {
+		"file": "Baguette bread",
+		"color": "ffe1db"
+	},
+	"\u2696\ufe0f": {
+		"file": "Balance scale",
+		"color": "ffeadb"
+	},
+	"\ud83e\ude70": {
+		"file": "Ballet shoes",
+		"color": "ffdbff"
+	},
+	"\ud83c\udf88": {
+		"file": "Balloon",
+		"color": "f7e2f0"
+	},
+	"\ud83d\uddf3\ufe0f": {
+		"file": "Ballot box with ballot",
+		"color": "ededed"
+	},
+	"\ud83c\udf4c": {
+		"file": "Banana",
+		"color": "ffe7db"
+	},
+	"\ud83e\ude95": {
+		"file": "Banjo",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udfe6": {
+		"file": "Bank",
+		"color": "ededed"
+	},
+	"\ud83d\udcca": {
+		"file": "Bar chart",
+		"color": "ededed"
+	},
+	"\ud83d\udc88": {
+		"file": "Barber pole",
+		"color": "ededed"
+	},
+	"\u26be": {
+		"file": "Baseball",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddfa": {
+		"file": "Basket",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udfc0": {
+		"file": "Basketball",
+		"color": "ffdbe4"
+	},
+	"\ud83e\udd87": {
+		"file": "Bat",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udec1": {
+		"file": "Bathtub",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udd0b": {
+		"file": "Battery",
+		"color": "f9ffdb"
+	},
+	"\ud83c\udfd6\ufe0f": {
+		"file": "Beach with umbrella",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude01": {
+		"file": "Beaming face with smiling eyes",
+		"color": "ffeadb"
+	},
+	"\ud83e\uded8": {
+		"file": "Beans",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc3b": {
+		"file": "Bear",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc93": {
+		"file": "Beating heart",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddab": {
+		"file": "Beaver",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udecf\ufe0f": {
+		"file": "Bed",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udf7a": {
+		"file": "Beer mug",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udeb2": {
+		"file": "Beetle",
+		"color": "ebf0e9"
+	},
+	"\ud83d\udd14": {
+		"file": "Bell",
+		"color": "ffe1db"
+	},
+	"\ud83e\uded1": {
+		"file": "Bell pepper",
+		"color": "ebf0e9"
+	},
+	"\ud83d\udd15": {
+		"file": "Bell with slash",
+		"color": "ffe1db"
+	},
+	"\ud83d\udece\ufe0f": {
+		"file": "Bellhop bell",
+		"color": "ffe1db"
+	},
+	"\ud83c\udf71": {
+		"file": "Bento box",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddc3": {
+		"file": "Beverage box",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udeb2": {
+		"file": "Bicycle",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc59": {
+		"file": "Bikini",
+		"color": "f7e2f0"
+	},
+	"\ud83e\udde2": {
+		"file": "Billed cap",
+		"color": "dbffff"
+	},
+	"\u2623\ufe0f": {
+		"file": "Biohazard",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc26": {
+		"file": "Bird",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf82": {
+		"file": "Birthday cake",
+		"color": "ffe1db"
+	},
+	"\ud83e\uddac": {
+		"file": "Bison",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udee6": {
+		"file": "Biting lip",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc08\u200d\u2b1b": {
+		"file": "Black cat",
+		"color": "e9ebf0"
+	},
+	"\u26ab": {
+		"file": "Black circle",
+		"color": "ededed"
+	},
+	"\ud83c\udff4": {
+		"file": "Black flag",
+		"color": "ededed"
+	},
+	"\ud83d\udda4": {
+		"file": "Black heart",
+		"color": "ededed"
+	},
+	"\u2b1b": {
+		"file": "Black large square",
+		"color": "ededed"
+	},
+	"\u25fc\ufe0f": {
+		"file": "Black medium square",
+		"color": "e7ebf3"
+	},
+	"\u25fe": {
+		"file": "Black medium-small square",
+		"color": "e7ebf3"
+	},
+	"\u2712\ufe0f": {
+		"file": "Black nib",
+		"color": "efe7f3"
+	},
+	"\u25aa\ufe0f": {
+		"file": "Black small square",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udd32": {
+		"file": "Black square button",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf3c": {
+		"file": "Blossom",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc21": {
+		"file": "Blowfish",
+		"color": "ffe1db"
+	},
+	"\ud83d\udcd8": {
+		"file": "Blue book",
+		"color": "dbfffc"
+	},
+	"\ud83d\udd35": {
+		"file": "Blue circle",
+		"color": "e2f0f7"
+	},
+	"\ud83d\udc99": {
+		"file": "Blue heart",
+		"color": "dbf0ff"
+	},
+	"\ud83d\udfe6": {
+		"file": "Blue square",
+		"color": "e2f0f7"
+	},
+	"\ud83e\uded0": {
+		"file": "Blueberries",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udc17": {
+		"file": "Boar",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udca3": {
+		"file": "Bomb",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddb4": {
+		"file": "Bone",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udd16": {
+		"file": "Bookmark",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udcd1": {
+		"file": "Bookmark tabs",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udcda": {
+		"file": "Books",
+		"color": "f3f6e4"
+	},
+	"\ud83e\ude83": {
+		"file": "Boomerang",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udf7e": {
+		"file": "Bottle with popping cork",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udc90": {
+		"file": "Bouquet",
+		"color": "ebf0e9"
+	},
+	"\ud83c\udff9": {
+		"file": "Bow and arrow",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd63": {
+		"file": "Bowl with spoon",
+		"color": "e2e9f7"
+	},
+	"\ud83c\udfb3": {
+		"file": "Bowling",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd4a": {
+		"file": "Boxing glove",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udc66": {
+		"file": "Boy",
+		"color": "ffeadb"
+	},
+	"\ud83e\udde0": {
+		"file": "Brain",
+		"color": "ffdbf9"
+	},
+	"\ud83c\udf5e": {
+		"file": "Bread",
+		"color": "f6e7e4"
+	},
+	"\ud83e\udd31": {
+		"file": "Breast feeding",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddf1": {
+		"file": "Brick",
+		"color": "ffdbe4"
+	},
+	"\ud83c\udf09": {
+		"file": "Bridge at night",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcbc": {
+		"file": "Briefcase",
+		"color": "efe7f3"
+	},
+	"\ud83e\ude72": {
+		"file": "Briefs",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udd06": {
+		"file": "Bright button",
+		"color": "ffe7db"
+	},
+	"\ud83e\udd66": {
+		"file": "Broccoli",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udc94": {
+		"file": "Broken heart",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddf9": {
+		"file": "Broom",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udfe4": {
+		"file": "Brown circle",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd0e": {
+		"file": "Brown heart",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udfeb": {
+		"file": "Brown square",
+		"color": "f0e9e9"
+	},
+	"\ud83e\uddcb": {
+		"file": "Bubble tea",
+		"color": "f6e7e4"
+	},
+	"\ud83e\udee7": {
+		"file": "Bubbles",
+		"color": "e1dbff"
+	},
+	"\ud83e\udea3": {
+		"file": "Bucket",
+		"color": "dbfffc"
+	},
+	"\ud83d\udc1b": {
+		"file": "Bug",
+		"color": "e4f6f0"
+	},
+	"\ud83c\udfd7\ufe0f": {
+		"file": "Building construction",
+		"color": "f7e9e2"
+	},
+	"\ud83d\ude85": {
+		"file": "Bullet train",
+		"color": "f3dbff"
+	},
+	"\ud83c\udfaf": {
+		"file": "Bullseye",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udf2f": {
+		"file": "Burrito",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude8c": {
+		"file": "Bus",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude8f": {
+		"file": "Bus stop",
+		"color": "e2f0f7"
+	},
+	"\ud83d\udc64": {
+		"file": "Bust in silhouette",
+		"color": "ededed"
+	},
+	"\ud83d\udc65": {
+		"file": "Busts in silhouette",
+		"color": "ededed"
+	},
+	"\ud83e\uddc8": {
+		"file": "Butter",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd8b": {
+		"file": "Butterfly",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf35": {
+		"file": "Cactus",
+		"color": "eaf6e4"
+	},
+	"\ud83d\udcc5": {
+		"file": "Calendar",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd19": {
+		"file": "Call me hand",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc2a": {
+		"file": "Camel",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udcf7": {
+		"file": "Camera",
+		"color": "ededed"
+	},
+	"\ud83d\udcf8": {
+		"file": "Camera with flash",
+		"color": "ededed"
+	},
+	"\ud83c\udfd5\ufe0f": {
+		"file": "Camping",
+		"color": "ffe7db"
+	},
+	"\u264b": {
+		"file": "Cancer",
+		"color": "dbdbff"
+	},
+	"\ud83d\udd6f\ufe0f": {
+		"file": "Candle",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf6c": {
+		"file": "Candy",
+		"color": "f7e2e2"
+	},
+	"\ud83e\udd6b": {
+		"file": "Canned food",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udef6": {
+		"file": "Canoe",
+		"color": "dbf3ff"
+	},
+	"\u2651": {
+		"file": "Capricorn",
+		"color": "dbdbff"
+	},
+	"\ud83d\uddc3\ufe0f": {
+		"file": "Card file box",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcc7": {
+		"file": "Card index",
+		"color": "dbe7ff"
+	},
+	"\ud83d\uddc2\ufe0f": {
+		"file": "Card index dividers",
+		"color": "ffe7db"
+	},
+	"\ud83c\udfa0": {
+		"file": "Carousel horse",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udf8f": {
+		"file": "Carp streamer",
+		"color": "ffdbf9"
+	},
+	"\ud83e\ude9a": {
+		"file": "Carpentry saw",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd55": {
+		"file": "Carrot",
+		"color": "ffe1db"
+	},
+	"\ud83c\udff0": {
+		"file": "Castle",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udc08": {
+		"file": "Cat",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc31": {
+		"file": "Cat face",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude39": {
+		"file": "Cat with tears of joy",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude3c": {
+		"file": "Cat with wry smile",
+		"color": "ffe1db"
+	},
+	"\u26d3\ufe0f": {
+		"file": "Chains",
+		"color": "ededed"
+	},
+	"\ud83e\ude91": {
+		"file": "Chair",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udcc9": {
+		"file": "Chart decreasing",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udcc8": {
+		"file": "Chart increasing",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcb9": {
+		"file": "Chart increasing with yen",
+		"color": "e4f6e7"
+	},
+	"\u2611\ufe0f": {
+		"file": "Check box with check",
+		"color": "efe7f3"
+	},
+	"\u2714\ufe0f": {
+		"file": "Check mark",
+		"color": "ededed"
+	},
+	"\u2705": {
+		"file": "Check mark button",
+		"color": "e4f6e7"
+	},
+	"\ud83e\uddc0": {
+		"file": "Cheese wedge",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfc1": {
+		"file": "Chequered flag",
+		"color": "ededed"
+	},
+	"\ud83c\udf52": {
+		"file": "Cherries",
+		"color": "ffdbf9"
+	},
+	"\ud83c\udf38": {
+		"file": "Cherry blossom",
+		"color": "ffdbf3"
+	},
+	"\u265f\ufe0f": {
+		"file": "Chess pawn",
+		"color": "ededed"
+	},
+	"\ud83c\udf30": {
+		"file": "Chestnut",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udc14": {
+		"file": "Chicken",
+		"color": "dbe7ff"
+	},
+	"\ud83e\uddd2": {
+		"file": "Child",
+		"color": "ffeadb"
+	},
+	"\ud83d\udeb8": {
+		"file": "Children crossing",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc3f\ufe0f": {
+		"file": "Chipmunk",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf6b": {
+		"file": "Chocolate bar",
+		"color": "f7e2f0"
+	},
+	"\ud83e\udd62": {
+		"file": "Chopsticks",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf84": {
+		"file": "Christmas tree",
+		"color": "ebf0e9"
+	},
+	"\u26ea": {
+		"file": "Church",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udeac": {
+		"file": "Cigarette",
+		"color": "ededed"
+	},
+	"\ud83c\udfa6": {
+		"file": "Cinema",
+		"color": "dbf3ff"
+	},
+	"\u24c2\ufe0f": {
+		"file": "Circled m",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udfaa": {
+		"file": "Circus tent",
+		"color": "ffdbf3"
+	},
+	"\ud83c\udfd9\ufe0f": {
+		"file": "Cityscape",
+		"color": "e2f0f7"
+	},
+	"\ud83c\udf06": {
+		"file": "Cityscape at dusk",
+		"color": "eee9f0"
+	},
+	"\ud83c\udd91": {
+		"file": "Cl button",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udddc\ufe0f": {
+		"file": "Clamp",
+		"color": "efe7f3"
+	},
+	"\ud83c\udfac": {
+		"file": "Clapper board",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udc4f": {
+		"file": "Clapping hands",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfdb\ufe0f": {
+		"file": "Classical building",
+		"color": "ededed"
+	},
+	"\ud83c\udf7b": {
+		"file": "Clinking beer mugs",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd42": {
+		"file": "Clinking glasses",
+		"color": "dbfff3"
+	},
+	"\ud83d\udccb": {
+		"file": "Clipboard",
+		"color": "f3dbff"
+	},
+	"\ud83d\udd03": {
+		"file": "Clockwise vertical arrows",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udcd5": {
+		"file": "Closed book",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udcea": {
+		"file": "Closed mailbox with lowered flag",
+		"color": "e4f3f6"
+	},
+	"\ud83d\udceb": {
+		"file": "Closed mailbox with raised flag",
+		"color": "dbf9ff"
+	},
+	"\ud83c\udf02": {
+		"file": "Closed umbrella",
+		"color": "e7e4f6"
+	},
+	"\u2601\ufe0f": {
+		"file": "Cloud",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf29\ufe0f": {
+		"file": "Cloud with lightning",
+		"color": "e2e9f7"
+	},
+	"\u26c8\ufe0f": {
+		"file": "Cloud with lightning and rain",
+		"color": "e2e9f7"
+	},
+	"\ud83c\udf27\ufe0f": {
+		"file": "Cloud with rain",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf28\ufe0f": {
+		"file": "Cloud with snow",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd21": {
+		"file": "Clown face",
+		"color": "ffdbf0"
+	},
+	"\u2663\ufe0f": {
+		"file": "Club suit",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc5d": {
+		"file": "Clutch bag",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udde5": {
+		"file": "Coat",
+		"color": "ffe1db"
+	},
+	"\ud83e\udeb3": {
+		"file": "Cockroach",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf78": {
+		"file": "Cocktail glass",
+		"color": "dbfff3"
+	},
+	"\ud83e\udd65": {
+		"file": "Coconut",
+		"color": "ededed"
+	},
+	"\u26b0\ufe0f": {
+		"file": "Coffin",
+		"color": "efe7f3"
+	},
+	"\ud83e\ude99": {
+		"file": "Coin",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd76": {
+		"file": "Cold face",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udca5": {
+		"file": "Collision",
+		"color": "f7e2e2"
+	},
+	"\u2604\ufe0f": {
+		"file": "Comet",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udded": {
+		"file": "Compass",
+		"color": "f7e9e2"
+	},
+	"\ud83d\udcbd": {
+		"file": "Computer disk",
+		"color": "e7e4f6"
+	},
+	"\ud83d\uddb1\ufe0f": {
+		"file": "Computer mouse",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf8a": {
+		"file": "Confetti ball",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude16": {
+		"file": "Confounded face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude15": {
+		"file": "Confused face",
+		"color": "ffe1db"
+	},
+	"\ud83d\udea7": {
+		"file": "Construction",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc77": {
+		"file": "Construction worker",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf9b\ufe0f": {
+		"file": "Control knobs",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udfea": {
+		"file": "Convenience store",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udf73": {
+		"file": "Cook",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf5a": {
+		"file": "Cooked rice",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf6a": {
+		"file": "Cookie",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udf73": {
+		"file": "Cooking",
+		"color": "efe7f3"
+	},
+	"\ud83c\udd92": {
+		"file": "Cool button",
+		"color": "dbf3ff"
+	},
+	"\u00a9\ufe0f": {
+		"file": "Copyright",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udeb8": {
+		"file": "Coral",
+		"color": "f7e2e2"
+	},
+	"\ud83d\udecb\ufe0f": {
+		"file": "Couch and lamp",
+		"color": "e2f0f7"
+	},
+	"\ud83d\udd04": {
+		"file": "Counterclockwise arrows button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udc04": {
+		"file": "Cow",
+		"color": "ededed"
+	},
+	"\ud83d\udc2e": {
+		"file": "Cow face",
+		"color": "ededed"
+	},
+	"\ud83e\udd20": {
+		"file": "Cowboy hat face",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd80": {
+		"file": "Crab",
+		"color": "ffdbf9"
+	},
+	"\ud83d\udd8d\ufe0f": {
+		"file": "Crayon",
+		"color": "f7f0e2"
+	},
+	"\ud83d\udcb3": {
+		"file": "Credit card",
+		"color": "dbf9ff"
+	},
+	"\ud83c\udf19": {
+		"file": "Crescent moon",
+		"color": "ffe7db"
+	},
+	"\ud83e\udd97": {
+		"file": "Cricket",
+		"color": "f3f6e4"
+	},
+	"\ud83c\udfcf": {
+		"file": "Cricket game",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc0a": {
+		"file": "Crocodile",
+		"color": "e4f6e7"
+	},
+	"\ud83e\udd50": {
+		"file": "Croissant",
+		"color": "f6e7e4"
+	},
+	"\u274c": {
+		"file": "Cross mark",
+		"color": "ffdbf0"
+	},
+	"\u274e": {
+		"file": "Cross mark button",
+		"color": "e4f6e7"
+	},
+	"\ud83e\udd1e": {
+		"file": "Crossed fingers",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf8c": {
+		"file": "Crossed flags",
+		"color": "dbe7ff"
+	},
+	"\u2694\ufe0f": {
+		"file": "Crossed swords",
+		"color": "ededed"
+	},
+	"\ud83d\udc51": {
+		"file": "Crown",
+		"color": "ffdbdb"
+	},
+	"\ud83e\ude7c": {
+		"file": "Crutch",
+		"color": "e9ebf0"
+	},
+	"\ud83d\ude3f": {
+		"file": "Crying cat",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude22": {
+		"file": "Crying face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd2e": {
+		"file": "Crystal ball",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd52": {
+		"file": "Cucumber",
+		"color": "ebf0e9"
+	},
+	"\ud83e\udd64": {
+		"file": "Cup with straw",
+		"color": "f7e2f0"
+	},
+	"\ud83e\uddc1": {
+		"file": "Cupcake",
+		"color": "ffdbff"
+	},
+	"\ud83e\udd4c": {
+		"file": "Curling stone",
+		"color": "efe7f3"
+	},
+	"\u27b0": {
+		"file": "Curly loop",
+		"color": "ededed"
+	},
+	"\ud83d\udcb1": {
+		"file": "Currency exchange",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf5b": {
+		"file": "Curry rice",
+		"color": "ffdbe4"
+	},
+	"\ud83c\udf6e": {
+		"file": "Custard",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udec3": {
+		"file": "Customs",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd69": {
+		"file": "Cut of meat",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf00": {
+		"file": "Cyclone",
+		"color": "dbf0ff"
+	},
+	"\ud83d\udde1\ufe0f": {
+		"file": "Dagger",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf61": {
+		"file": "Dango",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udca8": {
+		"file": "Dashing away",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf33": {
+		"file": "Deciduous tree",
+		"color": "ebf0e9"
+	},
+	"\ud83e\udd8c": {
+		"file": "Deer",
+		"color": "f6e7e4"
+	},
+	"\ud83d\ude9a": {
+		"file": "Delivery truck",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfec": {
+		"file": "Department store",
+		"color": "ededed"
+	},
+	"\ud83c\udfda\ufe0f": {
+		"file": "Derelict house",
+		"color": "ffe1db"
+	},
+	"\ud83c\udfdc\ufe0f": {
+		"file": "Desert",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfdd\ufe0f": {
+		"file": "Desert island",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udda5\ufe0f": {
+		"file": "Desktop computer",
+		"color": "dbffff"
+	},
+	"\ud83d\udd75\ufe0f": {
+		"file": "Detective",
+		"color": "e9ebf0"
+	},
+	"\u2666\ufe0f": {
+		"file": "Diamond suit",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udca0": {
+		"file": "Diamond with a dot",
+		"color": "dbffff"
+	},
+	"\ud83d\udd05": {
+		"file": "Dim button",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude1e": {
+		"file": "Disappointed face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd78": {
+		"file": "Disguised face",
+		"color": "ededed"
+	},
+	"\u2797": {
+		"file": "Divide",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udd3f": {
+		"file": "Diving mask",
+		"color": "dbffff"
+	},
+	"\ud83e\ude94": {
+		"file": "Diya lamp",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udcab": {
+		"file": "Dizzy",
+		"color": "ffe7db"
+	},
+	"\ud83e\uddec": {
+		"file": "Dna",
+		"color": "dbf9ff"
+	},
+	"\ud83e\udda4": {
+		"file": "Dodo",
+		"color": "ededed"
+	},
+	"\ud83d\udc15": {
+		"file": "Dog",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc36": {
+		"file": "Dog face",
+		"color": "ffe1db"
+	},
+	"\ud83d\udcb5": {
+		"file": "Dollar banknote",
+		"color": "e2f7e2"
+	},
+	"\ud83d\udc2c": {
+		"file": "Dolphin",
+		"color": "dbfffc"
+	},
+	"\ud83d\udeaa": {
+		"file": "Door",
+		"color": "f6e7e4"
+	},
+	"\ud83e\udee5": {
+		"file": "Dotted line face",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udd2f": {
+		"file": "Dotted six-pointed star",
+		"color": "dbdbff"
+	},
+	"\u27bf": {
+		"file": "Double curly loop",
+		"color": "ededed"
+	},
+	"\u203c\ufe0f": {
+		"file": "Double exclamation mark",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udf69": {
+		"file": "Doughnut",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udd4a\ufe0f": {
+		"file": "Dove",
+		"color": "dbe7ff"
+	},
+	"\u2b07\ufe0f": {
+		"file": "Down arrow",
+		"color": "dbf3ff"
+	},
+	"\u2199\ufe0f": {
+		"file": "Down-left arrow",
+		"color": "dbf3ff"
+	},
+	"\u2198\ufe0f": {
+		"file": "Down-right arrow",
+		"color": "dbf3ff"
+	},
+	"\ud83d\ude13": {
+		"file": "Downcast face with sweat",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd3d": {
+		"file": "Downwards button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udc09": {
+		"file": "Dragon",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udc32": {
+		"file": "Dragon face",
+		"color": "e4f6f0"
+	},
+	"\ud83d\udc57": {
+		"file": "Dress",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udd24": {
+		"file": "Drooling face",
+		"color": "ffeadb"
+	},
+	"\ud83e\ude78": {
+		"file": "Drop of blood",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udca7": {
+		"file": "Droplet",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd41": {
+		"file": "Drum",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udd86": {
+		"file": "Duck",
+		"color": "f3f6e4"
+	},
+	"\ud83e\udd5f": {
+		"file": "Dumpling",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udcc0": {
+		"file": "Dvd",
+		"color": "ffe7db"
+	},
+	"\ud83d\udce7": {
+		"file": "E-mail",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udd85": {
+		"file": "Eagle",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc42": {
+		"file": "Ear",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf3d": {
+		"file": "Ear of corn",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddbb": {
+		"file": "Ear with hearing aid",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd5a": {
+		"file": "Egg",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udf46": {
+		"file": "Eggplant",
+		"color": "dbdeff"
+	},
+	"\ud83d\udd57": {
+		"file": "Eight oclock",
+		"color": "ededed"
+	},
+	"\u2734\ufe0f": {
+		"file": "Eight-pointed star",
+		"color": "ffdbdb"
+	},
+	"\u2733\ufe0f": {
+		"file": "Eight-spoked asterisk",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udd63": {
+		"file": "Eight-thirty",
+		"color": "ededed"
+	},
+	"\u23cf\ufe0f": {
+		"file": "Eject button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd0c": {
+		"file": "Electric plug",
+		"color": "ededed"
+	},
+	"\ud83d\udc18": {
+		"file": "Elephant",
+		"color": "e7ebf3"
+	},
+	"\ud83d\uded7": {
+		"file": "Elevator",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd5a": {
+		"file": "Eleven oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd66": {
+		"file": "Eleven-thirty",
+		"color": "ededed"
+	},
+	"\ud83e\udeb9": {
+		"file": "Empty nest",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udd1a": {
+		"file": "End arrow",
+		"color": "ededed"
+	},
+	"\u2709\ufe0f": {
+		"file": "Envelope",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udce9": {
+		"file": "Envelope with arrow",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udcb6": {
+		"file": "Euro banknote",
+		"color": "dbfffc"
+	},
+	"\ud83c\udf32": {
+		"file": "Evergreen tree",
+		"color": "ebf0e9"
+	},
+	"\ud83d\udc11": {
+		"file": "Ewe",
+		"color": "efe7f3"
+	},
+	"\u2049\ufe0f": {
+		"file": "Exclamation question mark",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udd2f": {
+		"file": "Exploding head",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude11": {
+		"file": "Expressionless face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc41\ufe0f": {
+		"file": "Eye",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f": {
+		"file": "Eye in speech bubble",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc40": {
+		"file": "Eyes",
+		"color": "efe7f3"
+	},
+	"\ud83d\ude18": {
+		"file": "Face blowing a kiss",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude2e\u200d\ud83d\udca8": {
+		"file": "Face exhaling",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd79": {
+		"file": "Face holding back tears",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude36\u200d\ud83c\udf2b\ufe0f": {
+		"file": "Face in clouds",
+		"color": "dbe7ff"
+	},
+	"\ud83d\ude0b": {
+		"file": "Face savoring food",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude31": {
+		"file": "Face screaming in fear",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd2e": {
+		"file": "Face vomiting",
+		"color": "ffeadb"
+	},
+	"\ud83e\udee4": {
+		"file": "Face with diagonal mouth",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd2d": {
+		"file": "Face with hand over mouth",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd15": {
+		"file": "Face with head-bandage",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude37": {
+		"file": "Face with medical mask",
+		"color": "f3dbff"
+	},
+	"\ud83e\uddd0": {
+		"file": "Face with monocle",
+		"color": "ffe1db"
+	},
+	"\ud83e\udee2": {
+		"file": "Face with open eyes and hand over mouth",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude2e": {
+		"file": "Face with open mouth",
+		"color": "ffeadb"
+	},
+	"\ud83e\udee3": {
+		"file": "Face with peeking eye",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd28": {
+		"file": "Face with raised eyebrow",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude44": {
+		"file": "Face with rolling eyes",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude35\u200d\ud83d\udcab": {
+		"file": "Face with spiral eyes",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude24": {
+		"file": "Face with steam from nose",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd2c": {
+		"file": "Face with symbols on mouth",
+		"color": "efe7f3"
+	},
+	"\ud83d\ude02": {
+		"file": "Face with tears of joy",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd12": {
+		"file": "Face with thermometer",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude1b": {
+		"file": "Face with tongue",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude36": {
+		"file": "Face without mouth",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfed": {
+		"file": "Factory",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udfed": {
+		"file": "Factory worker",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddc6": {
+		"file": "Falafel",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf42": {
+		"file": "Fallen leaf",
+		"color": "f7e2e2"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udf3e": {
+		"file": "Farmer",
+		"color": "f3e7e7"
+	},
+	"\u23ec": {
+		"file": "Fast down button",
+		"color": "dbf3ff"
+	},
+	"\u23ea": {
+		"file": "Fast reverse button",
+		"color": "dbf3ff"
+	},
+	"\u23eb": {
+		"file": "Fast up button",
+		"color": "dbf3ff"
+	},
+	"\u23e9": {
+		"file": "Fast-forward button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udce0": {
+		"file": "Fax machine",
+		"color": "efe7f3"
+	},
+	"\ud83d\ude28": {
+		"file": "Fearful face",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udeb6": {
+		"file": "Feather",
+		"color": "f6e7e4"
+	},
+	"\u2640\ufe0f": {
+		"file": "Female sign",
+		"color": "ffdbff"
+	},
+	"\ud83c\udfa1": {
+		"file": "Ferris wheel",
+		"color": "e7e4f6"
+	},
+	"\u26f4\ufe0f": {
+		"file": "Ferry",
+		"color": "dbf9ff"
+	},
+	"\ud83c\udfd1": {
+		"file": "Field hockey",
+		"color": "ffdbdb"
+	},
+	"\ud83d\uddc4\ufe0f": {
+		"file": "File cabinet",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udcc1": {
+		"file": "File folder",
+		"color": "ffe7db"
+	},
+	"\ud83c\udf9e\ufe0f": {
+		"file": "Film frames",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udcfd\ufe0f": {
+		"file": "Film projector",
+		"color": "ededed"
+	},
+	"\ud83d\udd25": {
+		"file": "Fire",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude92": {
+		"file": "Fire engine",
+		"color": "f7e2e2"
+	},
+	"\ud83e\uddef": {
+		"file": "Fire extinguisher",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udde8": {
+		"file": "Firecracker",
+		"color": "f7e2f0"
+	},
+	"\ud83e\uddd1\u200d\ud83d\ude92": {
+		"file": "Firefighter",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf86": {
+		"file": "Fireworks",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf13": {
+		"file": "First quarter moon",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf1b": {
+		"file": "First quarter moon face",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc1f": {
+		"file": "Fish",
+		"color": "dbffff"
+	},
+	"\ud83c\udf65": {
+		"file": "Fish cake with swirl",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udfa3": {
+		"file": "Fishing pole",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udd54": {
+		"file": "Five oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd60": {
+		"file": "Five-thirty",
+		"color": "ededed"
+	},
+	"\u26f3": {
+		"file": "Flag in hole",
+		"color": "ebf0e9"
+	},
+	"\ud83e\udda9": {
+		"file": "Flamingo",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udd26": {
+		"file": "Flashlight",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd7f": {
+		"file": "Flat shoe",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uded3": {
+		"file": "Flatbread",
+		"color": "ffe1db"
+	},
+	"\u269c\ufe0f": {
+		"file": "Fleur-de-lis",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcaa": {
+		"file": "Flexed biceps",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcbe": {
+		"file": "Floppy disk",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udfb4": {
+		"file": "Flower playing cards",
+		"color": "ffdbf9"
+	},
+	"\ud83d\ude33": {
+		"file": "Flushed face",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udeb0": {
+		"file": "Fly",
+		"color": "dbf9ff"
+	},
+	"\ud83e\udd4f": {
+		"file": "Flying disc",
+		"color": "dbfffc"
+	},
+	"\ud83d\udef8": {
+		"file": "Flying saucer",
+		"color": "ededed"
+	},
+	"\ud83c\udf2b\ufe0f": {
+		"file": "Fog",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf01": {
+		"file": "Foggy",
+		"color": "e7ebf3"
+	},
+	"\ud83d\ude4f": {
+		"file": "Folded hands",
+		"color": "dbdeff"
+	},
+	"\ud83e\uded5": {
+		"file": "Fondue",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddb6": {
+		"file": "Foot",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc63": {
+		"file": "Footprints",
+		"color": "ededed"
+	},
+	"\ud83c\udf74": {
+		"file": "Fork and knife",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf7d\ufe0f": {
+		"file": "Fork and knife with plate",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd60": {
+		"file": "Fortune cookie",
+		"color": "f7e9e2"
+	},
+	"\u26f2": {
+		"file": "Fountain",
+		"color": "ededed"
+	},
+	"\ud83d\udd8b\ufe0f": {
+		"file": "Fountain pen",
+		"color": "e2f0f7"
+	},
+	"\ud83c\udf40": {
+		"file": "Four leaf clover",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udd53": {
+		"file": "Four oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd5f": {
+		"file": "Four-thirty",
+		"color": "ededed"
+	},
+	"\ud83e\udd8a": {
+		"file": "Fox",
+		"color": "ffe1db"
+	},
+	"\ud83d\uddbc\ufe0f": {
+		"file": "Framed picture",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udd93": {
+		"file": "Free button",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udf5f": {
+		"file": "French fries",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf64": {
+		"file": "Fried shrimp",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc38": {
+		"file": "Frog",
+		"color": "e2f7e9"
+	},
+	"\ud83d\udc25": {
+		"file": "Front-facing baby chick",
+		"color": "ffe1db"
+	},
+	"\u2639\ufe0f": {
+		"file": "Frowning face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude26": {
+		"file": "Frowning face with open mouth",
+		"color": "ffeadb"
+	},
+	"\u26fd": {
+		"file": "Fuel pump",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf15": {
+		"file": "Full moon",
+		"color": "ffe7db"
+	},
+	"\ud83c\udf1d": {
+		"file": "Full moon face",
+		"color": "ffe7db"
+	},
+	"\u26b1\ufe0f": {
+		"file": "Funeral urn",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udfb2": {
+		"file": "Game die",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddc4": {
+		"file": "Garlic",
+		"color": "f3e7e7"
+	},
+	"\u2699\ufe0f": {
+		"file": "Gear",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc8e": {
+		"file": "Gem stone",
+		"color": "e2f7f7"
+	},
+	"\u264a": {
+		"file": "Gemini",
+		"color": "dbdbff"
+	},
+	"\ud83d\udc7b": {
+		"file": "Ghost",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd92": {
+		"file": "Giraffe",
+		"color": "f7e9e2"
+	},
+	"\ud83d\udc67": {
+		"file": "Girl",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd5b": {
+		"file": "Glass of milk",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc53": {
+		"file": "Glasses",
+		"color": "dbffff"
+	},
+	"\ud83c\udf0e": {
+		"file": "Globe showing americas",
+		"color": "e2f0f7"
+	},
+	"\ud83c\udf0f": {
+		"file": "Globe showing asia-australia",
+		"color": "dbffff"
+	},
+	"\ud83c\udf0d": {
+		"file": "Globe showing europe-africa",
+		"color": "e2f0f7"
+	},
+	"\ud83c\udf10": {
+		"file": "Globe with meridians",
+		"color": "dbffff"
+	},
+	"\ud83e\udde4": {
+		"file": "Gloves",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf1f": {
+		"file": "Glowing star",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd45": {
+		"file": "Goal net",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc10": {
+		"file": "Goat",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udc7a": {
+		"file": "Goblin",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udd7d": {
+		"file": "Goggles",
+		"color": "dbfffc"
+	},
+	"\ud83e\udd8d": {
+		"file": "Gorilla",
+		"color": "ededed"
+	},
+	"\ud83c\udf93": {
+		"file": "Graduation cap",
+		"color": "ededed"
+	},
+	"\ud83c\udf47": {
+		"file": "Grapes",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf4f": {
+		"file": "Green apple",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udcd7": {
+		"file": "Green book",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udfe2": {
+		"file": "Green circle",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udc9a": {
+		"file": "Green heart",
+		"color": "e2f7e9"
+	},
+	"\ud83e\udd57": {
+		"file": "Green salad",
+		"color": "efe7f3"
+	},
+	"\ud83d\udfe9": {
+		"file": "Green square",
+		"color": "e2f7e9"
+	},
+	"\ud83d\ude2c": {
+		"file": "Grimacing face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude3a": {
+		"file": "Grinning cat",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude38": {
+		"file": "Grinning cat with smiling eyes",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude00": {
+		"file": "Grinning face",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude03": {
+		"file": "Grinning face with big eyes",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude04": {
+		"file": "Grinning face with smiling eyes",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude05": {
+		"file": "Grinning face with sweat",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude06": {
+		"file": "Grinning squinting face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc97": {
+		"file": "Growing heart",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udc82": {
+		"file": "Guard",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddae": {
+		"file": "Guide dog",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udfb8": {
+		"file": "Guitar",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf54": {
+		"file": "Hamburger",
+		"color": "ffe1db"
+	},
+	"\ud83d\udd28": {
+		"file": "Hammer",
+		"color": "f0e9e9"
+	},
+	"\u2692\ufe0f": {
+		"file": "Hammer and pick",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udee0\ufe0f": {
+		"file": "Hammer and wrench",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udeac": {
+		"file": "Hamsa",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udc39": {
+		"file": "Hamster",
+		"color": "ffe1db"
+	},
+	"\ud83d\udd90\ufe0f": {
+		"file": "Hand with fingers splayed",
+		"color": "ffeadb"
+	},
+	"\ud83e\udef0": {
+		"file": "Hand with index finger and thumb crossed",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc5c": {
+		"file": "Handbag",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd1d": {
+		"file": "Handshake",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc23": {
+		"file": "Hatching chick",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udfa7": {
+		"file": "Headphone",
+		"color": "ededed"
+	},
+	"\ud83e\udea6": {
+		"file": "Headstone",
+		"color": "ededed"
+	},
+	"\ud83e\uddd1\u200d\u2695\ufe0f": {
+		"file": "Health worker",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude49": {
+		"file": "Hear-no-evil monkey",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc9f": {
+		"file": "Heart decoration",
+		"color": "e7e4f6"
+	},
+	"\u2763\ufe0f": {
+		"file": "Heart exclamation",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udef6": {
+		"file": "Heart hands",
+		"color": "ffeadb"
+	},
+	"\u2764\ufe0f\u200d\ud83d\udd25": {
+		"file": "Heart on fire",
+		"color": "ffdbf0"
+	},
+	"\u2665\ufe0f": {
+		"file": "Heart suit",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc98": {
+		"file": "Heart with arrow",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc9d": {
+		"file": "Heart with ribbon",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udcb2": {
+		"file": "Heavy dollar sign",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udff0": {
+		"file": "Heavy equals sign",
+		"color": "ededed"
+	},
+	"\ud83e\udd94": {
+		"file": "Hedgehog",
+		"color": "f0e9e9"
+	},
+	"\ud83d\ude81": {
+		"file": "Helicopter",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf3f": {
+		"file": "Herb",
+		"color": "ffffdb"
+	},
+	"\ud83c\udf3a": {
+		"file": "Hibiscus",
+		"color": "ffdbff"
+	},
+	"\u26a1": {
+		"file": "High voltage",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc60": {
+		"file": "High-heeled shoe",
+		"color": "ffdbf0"
+	},
+	"\ud83d\ude84": {
+		"file": "High-speed train",
+		"color": "f3dbff"
+	},
+	"\ud83e\udd7e": {
+		"file": "Hiking boot",
+		"color": "ffe7db"
+	},
+	"\ud83d\uded5": {
+		"file": "Hindu temple",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd9b": {
+		"file": "Hippopotamus",
+		"color": "ededed"
+	},
+	"\ud83d\udd73\ufe0f": {
+		"file": "Hole",
+		"color": "dbe7ff"
+	},
+	"\u2b55": {
+		"file": "Hollow red circle",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udf6f": {
+		"file": "Honey pot",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc1d": {
+		"file": "Honeybee",
+		"color": "dbf9ff"
+	},
+	"\ud83e\ude9d": {
+		"file": "Hook",
+		"color": "ffeadb"
+	},
+	"\ud83d\udea5": {
+		"file": "Horizontal traffic light",
+		"color": "ededed"
+	},
+	"\ud83d\udc0e": {
+		"file": "Horse",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc34": {
+		"file": "Horse face",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udfc7": {
+		"file": "Horse racing",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udfe5": {
+		"file": "Hospital",
+		"color": "efe7f3"
+	},
+	"\u2615": {
+		"file": "Hot beverage",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udf2d": {
+		"file": "Hot dog",
+		"color": "f6e7e4"
+	},
+	"\ud83e\udd75": {
+		"file": "Hot face",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf36\ufe0f": {
+		"file": "Hot pepper",
+		"color": "ffdbf5"
+	},
+	"\u2668\ufe0f": {
+		"file": "Hot springs",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfe8": {
+		"file": "Hotel",
+		"color": "ffdbdb"
+	},
+	"\u231b": {
+		"file": "Hourglass done",
+		"color": "dbf9ff"
+	},
+	"\u23f3": {
+		"file": "Hourglass not done",
+		"color": "dbf9ff"
+	},
+	"\ud83c\udfe0": {
+		"file": "House",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udfe1": {
+		"file": "House with garden",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udfd8\ufe0f": {
+		"file": "Houses",
+		"color": "e2f7e9"
+	},
+	"\ud83e\udd17": {
+		"file": "Hugging face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcaf": {
+		"file": "Hundred points",
+		"color": "ffdbf0"
+	},
+	"\ud83d\ude2f": {
+		"file": "Hushed face",
+		"color": "ffeadb"
+	},
+	"\ud83d\uded6": {
+		"file": "Hut",
+		"color": "f6e7e4"
+	},
+	"\ud83e\uddca": {
+		"file": "Ice",
+		"color": "dbffff"
+	},
+	"\ud83c\udf68": {
+		"file": "Ice cream",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udfd2": {
+		"file": "Ice hockey",
+		"color": "ffdbdb"
+	},
+	"\u26f8\ufe0f": {
+		"file": "Ice skate",
+		"color": "e9ebf0"
+	},
+	"\ud83c\udd94": {
+		"file": "Id button",
+		"color": "dbdbff"
+	},
+	"\ud83e\udeaa": {
+		"file": "Identification card",
+		"color": "dbffff"
+	},
+	"\ud83d\udce5": {
+		"file": "Inbox tray",
+		"color": "e2f7f7"
+	},
+	"\ud83d\udce8": {
+		"file": "Incoming envelope",
+		"color": "f3dbff"
+	},
+	"\ud83e\udef5": {
+		"file": "Index pointing at the viewer",
+		"color": "ffe1db"
+	},
+	"\u261d\ufe0f": {
+		"file": "Index pointing up",
+		"color": "ffeadb"
+	},
+	"\u267e\ufe0f": {
+		"file": "Infinity",
+		"color": "dbf9ff"
+	},
+	"\u2139\ufe0f": {
+		"file": "Information",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd24": {
+		"file": "Input latin letters",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd21": {
+		"file": "Input latin lowercase",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd20": {
+		"file": "Input latin uppercase",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd22": {
+		"file": "Input numbers",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd23": {
+		"file": "Input symbols",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udf83": {
+		"file": "Jack-o-lantern",
+		"color": "ffdbe4"
+	},
+	"\ud83c\ude51": {
+		"file": "Japanese acceptable button",
+		"color": "ffdbdb"
+	},
+	"\ud83c\ude38": {
+		"file": "Japanese application button",
+		"color": "ffdbdb"
+	},
+	"\ud83c\ude50": {
+		"file": "Japanese bargain button",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfef": {
+		"file": "Japanese castle",
+		"color": "ffdbf0"
+	},
+	"\u3297\ufe0f": {
+		"file": "Japanese congratulations button",
+		"color": "ffdbf0"
+	},
+	"\ud83c\ude39": {
+		"file": "Japanese discount button",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udf8e": {
+		"file": "Japanese dolls",
+		"color": "dbffff"
+	},
+	"\ud83c\ude1a": {
+		"file": "Japanese free of charge button",
+		"color": "ffdbdb"
+	},
+	"\ud83c\ude01": {
+		"file": "Japanese hear button",
+		"color": "dbf3ff"
+	},
+	"\ud83c\ude37\ufe0f": {
+		"file": "Japanese monthly amount button",
+		"color": "ffdbdb"
+	},
+	"\ud83c\ude35": {
+		"file": "Japanese no vacancy button",
+		"color": "ffdbf0"
+	},
+	"\ud83c\ude36": {
+		"file": "Japanese not free of charge button",
+		"color": "ffdbdb"
+	},
+	"\ud83c\ude3a": {
+		"file": "Japanese open for business button",
+		"color": "ffdbdb"
+	},
+	"\ud83c\ude34": {
+		"file": "Japanese passing grade button",
+		"color": "ffdbf3"
+	},
+	"\ud83c\udfe3": {
+		"file": "Japanese post office",
+		"color": "efe7f3"
+	},
+	"\ud83c\ude32": {
+		"file": "Japanese prohibited button",
+		"color": "ffdbf0"
+	},
+	"\ud83c\ude2f": {
+		"file": "Japanese reserved button",
+		"color": "e4f6e7"
+	},
+	"\u3299\ufe0f": {
+		"file": "Japanese secret button",
+		"color": "ffdbf0"
+	},
+	"\ud83c\ude02\ufe0f": {
+		"file": "Japanese service charge button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd30": {
+		"file": "Japanese symbol for beginner",
+		"color": "ffe7db"
+	},
+	"\ud83c\ude33": {
+		"file": "Japanese vacancy button",
+		"color": "dbf3ff"
+	},
+	"\ud83e\uded9": {
+		"file": "Jar",
+		"color": "dbfff3"
+	},
+	"\ud83d\udc56": {
+		"file": "Jeans",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udccf": {
+		"file": "Joker",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udd79\ufe0f": {
+		"file": "Joystick",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddd1\u200d\u2696\ufe0f": {
+		"file": "Judge",
+		"color": "efe7f3"
+	},
+	"\ud83d\udd4b": {
+		"file": "Kaaba",
+		"color": "ededed"
+	},
+	"\ud83e\udd98": {
+		"file": "Kangaroo",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udd11": {
+		"file": "Key",
+		"color": "ffeadb"
+	},
+	"\u2328\ufe0f": {
+		"file": "Keyboard",
+		"color": "ededed"
+	},
+	"0\ufe0f\u20e3": {
+		"file": "Keycap 0",
+		"color": "dbf3ff"
+	},
+	"1\ufe0f\u20e3": {
+		"file": "Keycap 1",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd1f": {
+		"file": "Keycap 10",
+		"color": "dbf3ff"
+	},
+	"2\ufe0f\u20e3": {
+		"file": "Keycap 2",
+		"color": "dbf3ff"
+	},
+	"3\ufe0f\u20e3": {
+		"file": "Keycap 3",
+		"color": "dbf3ff"
+	},
+	"4\ufe0f\u20e3": {
+		"file": "Keycap 4",
+		"color": "dbf3ff"
+	},
+	"5\ufe0f\u20e3": {
+		"file": "Keycap 5",
+		"color": "dbf3ff"
+	},
+	"6\ufe0f\u20e3": {
+		"file": "Keycap 6",
+		"color": "dbf3ff"
+	},
+	"7\ufe0f\u20e3": {
+		"file": "Keycap 7",
+		"color": "dbf3ff"
+	},
+	"8\ufe0f\u20e3": {
+		"file": "Keycap 8",
+		"color": "dbf3ff"
+	},
+	"9\ufe0f\u20e3": {
+		"file": "Keycap 9",
+		"color": "dbf3ff"
+	},
+	"*\ufe0f\u20e3": {
+		"file": "Keycap asterisk",
+		"color": "dbf3ff"
+	},
+	"#\ufe0f\u20e3": {
+		"file": "Keycap hashtag",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udef4": {
+		"file": "Kick scooter",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc58": {
+		"file": "Kimono",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc8b": {
+		"file": "Kiss mark",
+		"color": "ffdbf0"
+	},
+	"\ud83d\ude3d": {
+		"file": "Kissing cat",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude17": {
+		"file": "Kissing face",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude1a": {
+		"file": "Kissing face with closed eyes",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude19": {
+		"file": "Kissing face with smiling eyes",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd2a": {
+		"file": "Kitchen knife",
+		"color": "efe7f3"
+	},
+	"\ud83e\ude81": {
+		"file": "Kite",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd5d": {
+		"file": "Kiwi fruit",
+		"color": "f7f7e2"
+	},
+	"\ud83d\ude35": {
+		"file": "Knocked-out face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udea2": {
+		"file": "Knot",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc28": {
+		"file": "Koala",
+		"color": "ededed"
+	},
+	"\ud83e\udd7c": {
+		"file": "Lab coat",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udff7\ufe0f": {
+		"file": "Label",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd4d": {
+		"file": "Lacrosse",
+		"color": "e2f7f7"
+	},
+	"\ud83e\ude9c": {
+		"file": "Ladder",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udc1e": {
+		"file": "Lady beetle",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udcbb": {
+		"file": "Laptop",
+		"color": "dbfff3"
+	},
+	"\ud83d\udd37": {
+		"file": "Large blue diamond",
+		"color": "e2f7f7"
+	},
+	"\ud83d\udd36": {
+		"file": "Large orange diamond",
+		"color": "ffdbe4"
+	},
+	"\ud83c\udf17": {
+		"file": "Last quarter moon",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf1c": {
+		"file": "Last quarter moon face",
+		"color": "ffe7db"
+	},
+	"\u23ee\ufe0f": {
+		"file": "Last track button",
+		"color": "dbf3ff"
+	},
+	"\u271d\ufe0f": {
+		"file": "Latin cross",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf43": {
+		"file": "Leaf fluttering in wind",
+		"color": "e4f6e7"
+	},
+	"\ud83e\udd6c": {
+		"file": "Leafy green",
+		"color": "f6f0e4"
+	},
+	"\ud83d\udcd2": {
+		"file": "Ledger",
+		"color": "ffeadb"
+	},
+	"\u2b05\ufe0f": {
+		"file": "Left arrow",
+		"color": "dbf3ff"
+	},
+	"\u21aa\ufe0f": {
+		"file": "Left arrow curving right",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udec5": {
+		"file": "Left luggage",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udde8\ufe0f": {
+		"file": "Left speech bubble",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd1b": {
+		"file": "Left-facing fist",
+		"color": "ffeadb"
+	},
+	"\u2194\ufe0f": {
+		"file": "Left-right arrow",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udef2": {
+		"file": "Leftwards hand",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddb5": {
+		"file": "Leg",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf4b": {
+		"file": "Lemon",
+		"color": "ffeadb"
+	},
+	"\u264c": {
+		"file": "Leo",
+		"color": "dbdbff"
+	},
+	"\ud83d\udc06": {
+		"file": "Leopard",
+		"color": "ffe1db"
+	},
+	"\ud83c\udf9a\ufe0f": {
+		"file": "Level slider",
+		"color": "dbe7ff"
+	},
+	"\u264e": {
+		"file": "Libra",
+		"color": "dbdbff"
+	},
+	"\ud83d\udca1": {
+		"file": "Light bulb",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude88": {
+		"file": "Light rail",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udd17": {
+		"file": "Link",
+		"color": "efe7f3"
+	},
+	"\ud83d\udd87\ufe0f": {
+		"file": "Linked paperclips",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udd81": {
+		"file": "Lion",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc84": {
+		"file": "Lipstick",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udeae": {
+		"file": "Litter in bin sign",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd8e": {
+		"file": "Lizard",
+		"color": "e4f6e7"
+	},
+	"\ud83e\udd99": {
+		"file": "Llama",
+		"color": "f3dbff"
+	},
+	"\ud83e\udd9e": {
+		"file": "Lobster",
+		"color": "f6e4e4"
+	},
+	"\ud83d\udd12": {
+		"file": "Locked",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udd10": {
+		"file": "Locked with key",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udd0f": {
+		"file": "Locked with pen",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude82": {
+		"file": "Locomotive",
+		"color": "ededed"
+	},
+	"\ud83c\udf6d": {
+		"file": "Lollipop",
+		"color": "dbf3ff"
+	},
+	"\ud83e\ude98": {
+		"file": "Long drum",
+		"color": "f6e7e4"
+	},
+	"\ud83e\uddf4": {
+		"file": "Lotion bottle",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udeb7": {
+		"file": "Lotus",
+		"color": "ffdbff"
+	},
+	"\ud83d\ude2d": {
+		"file": "Loudly crying face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udce2": {
+		"file": "Loudspeaker",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udfe9": {
+		"file": "Love hotel",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc8c": {
+		"file": "Love letter",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd1f": {
+		"file": "Love-you gesture",
+		"color": "ffeadb"
+	},
+	"\ud83e\udeab": {
+		"file": "Low battery",
+		"color": "ededed"
+	},
+	"\ud83e\uddf3": {
+		"file": "Luggage",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udec1": {
+		"file": "Lungs",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udd25": {
+		"file": "Lying face",
+		"color": "ffe1db"
+	},
+	"\ud83e\ude84": {
+		"file": "Magic wand",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddf2": {
+		"file": "Magnet",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udd0d": {
+		"file": "Magnifying glass tilted left",
+		"color": "dbffff"
+	},
+	"\ud83d\udd0e": {
+		"file": "Magnifying glass tilted right",
+		"color": "dbffff"
+	},
+	"\ud83c\udc04": {
+		"file": "Mahjong red dragon",
+		"color": "ffdbf0"
+	},
+	"\u2642\ufe0f": {
+		"file": "Male sign",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udda3": {
+		"file": "Mammoth",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc68": {
+		"file": "Man",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83c\udfa8": {
+		"file": "Man artist",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83d\ude80": {
+		"file": "Man astronaut",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddb2": {
+		"file": "Man bald",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd4\u200d\u2642\ufe0f": {
+		"file": "Man beard",
+		"color": "ffeadb"
+	},
+	"\ud83d\udeb4\u200d\u2642\ufe0f": {
+		"file": "Man biking",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc71\u200d\u2642\ufe0f": {
+		"file": "Man blonde hair",
+		"color": "ffeadb"
+	},
+	"\u26f9\ufe0f\u200d\u2642\ufe0f": {
+		"file": "Man bouncing ball",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude47\u200d\u2642\ufe0f": {
+		"file": "Man bowing",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd38\u200d\u2642\ufe0f": {
+		"file": "Man cartwheeling",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd7\u200d\u2642\ufe0f": {
+		"file": "Man climbing",
+		"color": "ededed"
+	},
+	"\ud83d\udc77\u200d\u2642\ufe0f": {
+		"file": "Man construction worker",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83c\udf73": {
+		"file": "Man cook",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddb1": {
+		"file": "Man curly hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd7a": {
+		"file": "Man dancing",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddcf\u200d\u2642\ufe0f": {
+		"file": "Man deaf",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd75\ufe0f\u200d\u2642\ufe0f": {
+		"file": "Man detective",
+		"color": "e9ebf0"
+	},
+	"\ud83e\udddd\u200d\u2642\ufe0f": {
+		"file": "Man elf",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd26\u200d\u2642\ufe0f": {
+		"file": "Man facepalming",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83c\udfed": {
+		"file": "Man factory worker",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddda\u200d\u2642\ufe0f": {
+		"file": "Man fairy",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83c\udf3e": {
+		"file": "Man farmer",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udc68\u200d\ud83c\udf7c": {
+		"file": "Man feeding baby",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83d\ude92": {
+		"file": "Man firefighter",
+		"color": "f7e2f0"
+	},
+	"\ud83d\ude4d\u200d\u2642\ufe0f": {
+		"file": "Man frowning",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddde\u200d\u2642\ufe0f": {
+		"file": "Man genie",
+		"color": "dbffff"
+	},
+	"\ud83d\ude45\u200d\u2642\ufe0f": {
+		"file": "Man gesturing no",
+		"color": "dbf9ff"
+	},
+	"\ud83d\ude46\u200d\u2642\ufe0f": {
+		"file": "Man gesturing ok",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc87\u200d\u2642\ufe0f": {
+		"file": "Man getting haircut",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc86\u200d\u2642\ufe0f": {
+		"file": "Man getting massage",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f": {
+		"file": "Man golfing",
+		"color": "ededed"
+	},
+	"\ud83d\udc82\u200d\u2642\ufe0f": {
+		"file": "Man guard",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc68\u200d\u2695\ufe0f": {
+		"file": "Man health worker",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd8\u200d\u2642\ufe0f": {
+		"file": "Man in lotus position",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddbd": {
+		"file": "Man in manual wheelchair",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddbc": {
+		"file": "Man in motorized wheelchair",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddd6\u200d\u2642\ufe0f": {
+		"file": "Man in steamy room",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd35\u200d\u2642\ufe0f": {
+		"file": "Man in tuxedo",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\u2696\ufe0f": {
+		"file": "Man judge",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd39\u200d\u2642\ufe0f": {
+		"file": "Man juggling",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddce\u200d\u2642\ufe0f": {
+		"file": "Man kneeling",
+		"color": "ededed"
+	},
+	"\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f": {
+		"file": "Man lifting weights",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd9\u200d\u2642\ufe0f": {
+		"file": "Man mage",
+		"color": "e2f0f7"
+	},
+	"\ud83d\udc68\u200d\ud83d\udd27": {
+		"file": "Man mechanic",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udddc\u200d\u2642\ufe0f": {
+		"file": "Man merpeople",
+		"color": "ffeadb"
+	},
+	"\ud83d\udeb5\u200d\u2642\ufe0f": {
+		"file": "Man mountain biking",
+		"color": "e2f7e2"
+	},
+	"\ud83d\udc68\u200d\ud83d\udcbc": {
+		"file": "Man office worker",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udc68\u200d\u2708\ufe0f": {
+		"file": "Man pilot",
+		"color": "e9ebf0"
+	},
+	"\ud83e\udd3e\u200d\u2642\ufe0f": {
+		"file": "Man playing handball",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd3d\u200d\u2642\ufe0f": {
+		"file": "Man playing water polo",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc6e\u200d\u2642\ufe0f": {
+		"file": "Man police officer",
+		"color": "dbf9ff"
+	},
+	"\ud83d\ude4e\u200d\u2642\ufe0f": {
+		"file": "Man pouting",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude4b\u200d\u2642\ufe0f": {
+		"file": "Man raising hand",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddb0": {
+		"file": "Man red hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udea3\u200d\u2642\ufe0f": {
+		"file": "Man rowing boat",
+		"color": "dbffff"
+	},
+	"\ud83c\udfc3\u200d\u2642\ufe0f": {
+		"file": "Man running",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83d\udd2c": {
+		"file": "Man scientist",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd37\u200d\u2642\ufe0f": {
+		"file": "Man shrugging",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc68\u200d\ud83c\udfa4": {
+		"file": "Man singer",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddcd\u200d\u2642\ufe0f": {
+		"file": "Man standing",
+		"color": "ededed"
+	},
+	"\ud83d\udc68\u200d\ud83c\udf93": {
+		"file": "Man student",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddb8\u200d\u2642\ufe0f": {
+		"file": "Man superhero",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddb9\u200d\u2642\ufe0f": {
+		"file": "Man supervillain",
+		"color": "e9ebf0"
+	},
+	"\ud83c\udfc4\u200d\u2642\ufe0f": {
+		"file": "Man surfing",
+		"color": "e2f0f7"
+	},
+	"\ud83c\udfca\u200d\u2642\ufe0f": {
+		"file": "Man swimming",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc68\u200d\ud83c\udfeb": {
+		"file": "Man teacher",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc81\u200d\u2642\ufe0f": {
+		"file": "Man tipping hand",
+		"color": "dbf9ff"
+	},
+	"\ud83e\udddb\u200d\u2642\ufe0f": {
+		"file": "Man vampire",
+		"color": "efe7f3"
+	},
+	"\ud83d\udeb6\u200d\u2642\ufe0f": {
+		"file": "Man walking",
+		"color": "ededed"
+	},
+	"\ud83d\udc73\u200d\u2642\ufe0f": {
+		"file": "Man wearing turban",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddb3": {
+		"file": "Man white hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc6f\u200d\u2642\ufe0f": {
+		"file": "Man with bunny ears",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc70\u200d\u2642\ufe0f": {
+		"file": "Man with veil",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc68\u200d\ud83e\uddaf": {
+		"file": "Man with white cane",
+		"color": "ededed"
+	},
+	"\ud83e\udd3c\u200d\u2642\ufe0f": {
+		"file": "Man wrestling",
+		"color": "ffeadb"
+	},
+	"\ud83e\udddf\u200d\u2642\ufe0f": {
+		"file": "Man zombie",
+		"color": "e9f0ee"
+	},
+	"\ud83e\udd6d": {
+		"file": "Mango",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc5e": {
+		"file": "Mans shoe",
+		"color": "f6e4e4"
+	},
+	"\ud83d\udd70\ufe0f": {
+		"file": "Mantelpiece clock",
+		"color": "f3e7e7"
+	},
+	"\ud83e\uddbd": {
+		"file": "Manual wheelchair",
+		"color": "ededed"
+	},
+	"\ud83d\uddfe": {
+		"file": "Map of japan",
+		"color": "e4f6e7"
+	},
+	"\ud83c\udf41": {
+		"file": "Maple leaf",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udd4b": {
+		"file": "Martial arts uniform",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddc9": {
+		"file": "Mate",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf56": {
+		"file": "Meat on bone",
+		"color": "f3e7e7"
+	},
+	"\ud83e\uddd1\u200d\ud83d\udd27": {
+		"file": "Mechanic",
+		"color": "e2f0f7"
+	},
+	"\ud83e\uddbe": {
+		"file": "Mechanical arm",
+		"color": "ededed"
+	},
+	"\ud83e\uddbf": {
+		"file": "Mechanical leg",
+		"color": "ededed"
+	},
+	"\u2695\ufe0f": {
+		"file": "Medical symbol",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udce3": {
+		"file": "Megaphone",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf48": {
+		"file": "Melon",
+		"color": "f3efe7"
+	},
+	"\ud83e\udee0": {
+		"file": "Melting face",
+		"color": "ffe1db"
+	},
+	"\ud83d\udcdd": {
+		"file": "Memo",
+		"color": "dbe7ff"
+	},
+	"\u2764\ufe0f\u200d\ud83e\ude79": {
+		"file": "Mending heart",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udd4e": {
+		"file": "Menorah",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udeb9": {
+		"file": "Mens room",
+		"color": "dbf3ff"
+	},
+	"\ud83d\ude87": {
+		"file": "Metro",
+		"color": "ededed"
+	},
+	"\ud83e\udda0": {
+		"file": "Microbe",
+		"color": "e2f7e9"
+	},
+	"\ud83c\udfa4": {
+		"file": "Microphone",
+		"color": "ededed"
+	},
+	"\ud83d\udd2c": {
+		"file": "Microscope",
+		"color": "ededed"
+	},
+	"\ud83d\udd95": {
+		"file": "Middle finger",
+		"color": "ffeadb"
+	},
+	"\ud83e\ude96": {
+		"file": "Military helmet",
+		"color": "e7f3ef"
+	},
+	"\ud83c\udf96\ufe0f": {
+		"file": "Military medal",
+		"color": "ffe1db"
+	},
+	"\ud83c\udf0c": {
+		"file": "Milky way",
+		"color": "ededed"
+	},
+	"\ud83d\ude90": {
+		"file": "Minibus",
+		"color": "dbe7ff"
+	},
+	"\u2796": {
+		"file": "Minus",
+		"color": "e7ebf3"
+	},
+	"\ud83e\ude9e": {
+		"file": "Mirror",
+		"color": "dbfff3"
+	},
+	"\ud83e\udea9": {
+		"file": "Mirror ball",
+		"color": "ededed"
+	},
+	"\ud83d\uddff": {
+		"file": "Moai",
+		"color": "ededed"
+	},
+	"\ud83d\udcf1": {
+		"file": "Mobile phone",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcf4": {
+		"file": "Mobile phone off",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udcf2": {
+		"file": "Mobile phone with arrow",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcb0": {
+		"file": "Money bag",
+		"color": "f7e2e2"
+	},
+	"\ud83d\udcb8": {
+		"file": "Money with wings",
+		"color": "e2f7e2"
+	},
+	"\ud83e\udd11": {
+		"file": "Money-mouth face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc12": {
+		"file": "Monkey",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc35": {
+		"file": "Monkey face",
+		"color": "f3e7e7"
+	},
+	"\ud83d\ude9d": {
+		"file": "Monorail",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd6e": {
+		"file": "Moon cake",
+		"color": "ffe1db"
+	},
+	"\ud83c\udf91": {
+		"file": "Moon viewing ceremony",
+		"color": "ededed"
+	},
+	"\ud83d\udd4c": {
+		"file": "Mosque",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd9f": {
+		"file": "Mosquito",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udee5\ufe0f": {
+		"file": "Motor boat",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udef5": {
+		"file": "Motor scooter",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfcd\ufe0f": {
+		"file": "Motorcycle",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddbc": {
+		"file": "Motorized wheelchair",
+		"color": "dbffff"
+	},
+	"\ud83d\udee3\ufe0f": {
+		"file": "Motorway",
+		"color": "efe7f3"
+	},
+	"\ud83d\uddfb": {
+		"file": "Mount fuji",
+		"color": "ededed"
+	},
+	"\u26f0\ufe0f": {
+		"file": "Mountain",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udea0": {
+		"file": "Mountain cableway",
+		"color": "dbfff3"
+	},
+	"\ud83d\ude9e": {
+		"file": "Mountain railway",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udc01": {
+		"file": "Mouse",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc2d": {
+		"file": "Mouse face",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udea4": {
+		"file": "Mouse trap",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc44": {
+		"file": "Mouth",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfa5": {
+		"file": "Movie camera",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udd36": {
+		"file": "Mrs claus",
+		"color": "ffeadb"
+	},
+	"\u2716\ufe0f": {
+		"file": "Multiply",
+		"color": "ededed"
+	},
+	"\ud83c\udf44": {
+		"file": "Mushroom",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfb9": {
+		"file": "Musical keyboard",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udfb5": {
+		"file": "Musical note",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udfb6": {
+		"file": "Musical notes",
+		"color": "ededed"
+	},
+	"\ud83c\udfbc": {
+		"file": "Musical score",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udd07": {
+		"file": "Muted speaker",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udf84": {
+		"file": "Mx claus",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc85": {
+		"file": "Nail polish",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcdb": {
+		"file": "Name badge",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfde\ufe0f": {
+		"file": "National park",
+		"color": "dbffff"
+	},
+	"\ud83e\udd22": {
+		"file": "Nauseated face",
+		"color": "e4f6e7"
+	},
+	"\ud83e\uddff": {
+		"file": "Nazar amulet",
+		"color": "e4f3f6"
+	},
+	"\ud83d\udc54": {
+		"file": "Necktie",
+		"color": "dbf9ff"
+	},
+	"\ud83e\udd13": {
+		"file": "Nerd face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udeba": {
+		"file": "Nest with eggs",
+		"color": "ffe1db"
+	},
+	"\ud83e\ude86": {
+		"file": "Nesting dolls",
+		"color": "f7e2f0"
+	},
+	"\ud83d\ude10": {
+		"file": "Neutral face",
+		"color": "ffe1db"
+	},
+	"\ud83c\udd95": {
+		"file": "New button",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udf11": {
+		"file": "New moon",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf1a": {
+		"file": "New moon face",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udcf0": {
+		"file": "Newspaper",
+		"color": "f3dbff"
+	},
+	"\u23ed\ufe0f": {
+		"file": "Next track button",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udd96": {
+		"file": "Ng button",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udf03": {
+		"file": "Night with stars",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udd58": {
+		"file": "Nine oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd64": {
+		"file": "Nine-thirty",
+		"color": "ededed"
+	},
+	"\ud83e\udd77": {
+		"file": "Ninja",
+		"color": "efe7f3"
+	},
+	"\ud83d\udeb3": {
+		"file": "No bicycles",
+		"color": "ffdbdb"
+	},
+	"\u26d4": {
+		"file": "No entry",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udeaf": {
+		"file": "No littering",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udcf5": {
+		"file": "No mobile phones",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udd1e": {
+		"file": "No one under eighteen",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udeb7": {
+		"file": "No pedestrians",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udead": {
+		"file": "No smoking",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udeb1": {
+		"file": "Non-potable water",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc43": {
+		"file": "Nose",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcd3": {
+		"file": "Notebook",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcd4": {
+		"file": "Notebook with decorative cover",
+		"color": "efe7f3"
+	},
+	"\ud83d\udd29": {
+		"file": "Nut and bolt",
+		"color": "ededed"
+	},
+	"\ud83c\udd7e\ufe0f": {
+		"file": "O button blood type",
+		"color": "ededed"
+	},
+	"\ud83d\udc19": {
+		"file": "Octopus",
+		"color": "ffdbf3"
+	},
+	"\ud83c\udf62": {
+		"file": "Oden",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfe2": {
+		"file": "Office building",
+		"color": "ededed"
+	},
+	"\ud83e\uddd1\u200d\ud83d\udcbc": {
+		"file": "Office worker",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udc79": {
+		"file": "Ogre",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udee2\ufe0f": {
+		"file": "Oil drum",
+		"color": "e2f7f7"
+	},
+	"\ud83c\udd97": {
+		"file": "Ok button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udc4c": {
+		"file": "Ok hand",
+		"color": "ffeadb"
+	},
+	"\ud83d\udddd\ufe0f": {
+		"file": "Old key",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc74": {
+		"file": "Old man",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc75": {
+		"file": "Old woman",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd3": {
+		"file": "Older person",
+		"color": "ffeadb"
+	},
+	"\ud83e\uded2": {
+		"file": "Olive",
+		"color": "f3f6e4"
+	},
+	"\ud83d\udd49\ufe0f": {
+		"file": "Om",
+		"color": "dbdbff"
+	},
+	"\ud83d\udd1b": {
+		"file": "On! arrow",
+		"color": "ededed"
+	},
+	"\ud83d\ude98": {
+		"file": "Oncoming automobile",
+		"color": "dbfffc"
+	},
+	"\ud83d\ude8d": {
+		"file": "Oncoming bus",
+		"color": "ededed"
+	},
+	"\ud83d\udc4a": {
+		"file": "Oncoming fist",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude94": {
+		"file": "Oncoming police car",
+		"color": "ededed"
+	},
+	"\ud83d\ude96": {
+		"file": "Oncoming taxi",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd50": {
+		"file": "One oclock",
+		"color": "ededed"
+	},
+	"\ud83e\ude71": {
+		"file": "One-piece swimsuit",
+		"color": "ffdbff"
+	},
+	"\ud83d\udd5c": {
+		"file": "One-thirty",
+		"color": "ededed"
+	},
+	"\ud83e\uddc5": {
+		"file": "Onion",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udcd6": {
+		"file": "Open book",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udcc2": {
+		"file": "Open file folder",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc50": {
+		"file": "Open hands",
+		"color": "ffe7db"
+	},
+	"\ud83d\udced": {
+		"file": "Open mailbox with lowered flag",
+		"color": "e4f3f6"
+	},
+	"\ud83d\udcec": {
+		"file": "Open mailbox with raised flag",
+		"color": "e4f3f6"
+	},
+	"\u26ce": {
+		"file": "Ophiuchus",
+		"color": "dbdbff"
+	},
+	"\ud83d\udcbf": {
+		"file": "Optical disk",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udcd9": {
+		"file": "Orange book",
+		"color": "f7e2e2"
+	},
+	"\ud83d\udfe0": {
+		"file": "Orange circle",
+		"color": "ffdbe4"
+	},
+	"\ud83e\udde1": {
+		"file": "Orange heart",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udfe7": {
+		"file": "Orange square",
+		"color": "ffdbe4"
+	},
+	"\ud83e\udda7": {
+		"file": "Orangutan",
+		"color": "ffdbe4"
+	},
+	"\u2626\ufe0f": {
+		"file": "Orthodox cross",
+		"color": "e7e4f6"
+	},
+	"\ud83e\udda6": {
+		"file": "Otter",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udce4": {
+		"file": "Outbox tray",
+		"color": "e2f7f7"
+	},
+	"\ud83e\udd89": {
+		"file": "Owl",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc02": {
+		"file": "Ox",
+		"color": "f0e9e9"
+	},
+	"\ud83e\uddaa": {
+		"file": "Oyster",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udd7f\ufe0f": {
+		"file": "P button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udce6": {
+		"file": "Package",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udcc4": {
+		"file": "Page facing up",
+		"color": "f3dbff"
+	},
+	"\ud83d\udcc3": {
+		"file": "Page with curl",
+		"color": "f3dbff"
+	},
+	"\ud83d\udcdf": {
+		"file": "Pager",
+		"color": "e4f6e7"
+	},
+	"\ud83d\udd8c\ufe0f": {
+		"file": "Paintbrush",
+		"color": "ffdbf9"
+	},
+	"\ud83e\udef3": {
+		"file": "Palm down hand",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf34": {
+		"file": "Palm tree",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udef4": {
+		"file": "Palm up hand",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd32": {
+		"file": "Palms up together",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd5e": {
+		"file": "Pancakes",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udc3c": {
+		"file": "Panda",
+		"color": "efe7f3"
+	},
+	"\ud83e\ude82": {
+		"file": "Parachute",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd9c": {
+		"file": "Parrot",
+		"color": "f7e2f0"
+	},
+	"\u303d\ufe0f": {
+		"file": "Part alternation mark",
+		"color": "ffe7db"
+	},
+	"\ud83c\udf89": {
+		"file": "Party popper",
+		"color": "f7e9e2"
+	},
+	"\ud83e\udd73": {
+		"file": "Partying face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udef3\ufe0f": {
+		"file": "Passenger ship",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udec2": {
+		"file": "Passport control",
+		"color": "dbf3ff"
+	},
+	"\u23f8\ufe0f": {
+		"file": "Pause button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udc3e": {
+		"file": "Paw prints",
+		"color": "e7ebf3"
+	},
+	"\u262e\ufe0f": {
+		"file": "Peace symbol",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf51": {
+		"file": "Peach",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udd9a": {
+		"file": "Peacock",
+		"color": "e2f7e9"
+	},
+	"\ud83e\udd5c": {
+		"file": "Peanuts",
+		"color": "f6e7e4"
+	},
+	"\ud83c\udf50": {
+		"file": "Pear",
+		"color": "f7f0e2"
+	},
+	"\ud83d\udd8a\ufe0f": {
+		"file": "Pen",
+		"color": "e2f0f7"
+	},
+	"\u270f\ufe0f": {
+		"file": "Pencil",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udc27": {
+		"file": "Penguin",
+		"color": "f3dbff"
+	},
+	"\ud83d\ude14": {
+		"file": "Pensive face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udec2": {
+		"file": "People hugging",
+		"color": "ededed"
+	},
+	"\ud83c\udfad": {
+		"file": "Performing arts",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude23": {
+		"file": "Persevering face",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1": {
+		"file": "Person",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddb2": {
+		"file": "Person bald",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd4": {
+		"file": "Person beard",
+		"color": "ffeadb"
+	},
+	"\ud83d\udeb4": {
+		"file": "Person biking",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc71": {
+		"file": "Person blonde hair",
+		"color": "ffeadb"
+	},
+	"\u26f9\ufe0f": {
+		"file": "Person bouncing ball",
+		"color": "ffdbe4"
+	},
+	"\ud83d\ude47": {
+		"file": "Person bowing",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd38": {
+		"file": "Person cartwheeling",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd7": {
+		"file": "Person climbing",
+		"color": "ededed"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddb1": {
+		"file": "Person curly hair",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddcf": {
+		"file": "Person deaf",
+		"color": "ffeadb"
+	},
+	"\ud83e\udddd": {
+		"file": "Person elf",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd26": {
+		"file": "Person facepalming",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddda": {
+		"file": "Person fairy",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udf7c": {
+		"file": "Person feeding baby",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd3a": {
+		"file": "Person fencing",
+		"color": "ededed"
+	},
+	"\ud83d\ude4d": {
+		"file": "Person frowning",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddde": {
+		"file": "Person genie",
+		"color": "dbfffc"
+	},
+	"\ud83d\ude45": {
+		"file": "Person gesturing no",
+		"color": "ffdbe4"
+	},
+	"\ud83d\ude46": {
+		"file": "Person gesturing ok",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udc87": {
+		"file": "Person getting haircut",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udc86": {
+		"file": "Person getting massage",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfcc\ufe0f": {
+		"file": "Person golfing",
+		"color": "ededed"
+	},
+	"\ud83d\udecc": {
+		"file": "Person in bed",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddd8": {
+		"file": "Person in lotus position",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddbd": {
+		"file": "Person in manual wheelchair",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddbc": {
+		"file": "Person in motorized wheelchair",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddd6": {
+		"file": "Person in steamy room",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd74\ufe0f": {
+		"file": "Person in suit levitating",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd35": {
+		"file": "Person in tuxedo",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd39": {
+		"file": "Person juggling",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddce": {
+		"file": "Person kneeling",
+		"color": "ededed"
+	},
+	"\ud83c\udfcb\ufe0f": {
+		"file": "Person lifting weights",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd9": {
+		"file": "Person mage",
+		"color": "dbf9ff"
+	},
+	"\ud83e\udddc": {
+		"file": "Person merpeople",
+		"color": "ffeadb"
+	},
+	"\ud83d\udeb5": {
+		"file": "Person mountain biking",
+		"color": "e2f7e2"
+	},
+	"\ud83e\udd3e": {
+		"file": "Person playing handball",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd3d": {
+		"file": "Person playing water polo",
+		"color": "dbf9ff"
+	},
+	"\ud83d\ude4e": {
+		"file": "Person pouting",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude4b": {
+		"file": "Person raising hand",
+		"color": "ffdbe4"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddb0": {
+		"file": "Person red hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udea3": {
+		"file": "Person rowing boat",
+		"color": "dbffff"
+	},
+	"\ud83c\udfc3": {
+		"file": "Person running",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd37": {
+		"file": "Person shrugging",
+		"color": "ffdbe4"
+	},
+	"\ud83e\uddcd": {
+		"file": "Person standing",
+		"color": "ededed"
+	},
+	"\ud83e\uddb8": {
+		"file": "Person superhero",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddb9": {
+		"file": "Person supervillain",
+		"color": "e9ebf0"
+	},
+	"\ud83c\udfc4": {
+		"file": "Person surfing",
+		"color": "ffdbe4"
+	},
+	"\ud83c\udfca": {
+		"file": "Person swimming",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udec0": {
+		"file": "Person taking bath",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc81": {
+		"file": "Person tipping hand",
+		"color": "ffdbe4"
+	},
+	"\ud83e\udddb": {
+		"file": "Person vampire",
+		"color": "efe7f3"
+	},
+	"\ud83d\udeb6": {
+		"file": "Person walking",
+		"color": "ededed"
+	},
+	"\ud83d\udc73": {
+		"file": "Person wearing turban",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddb3": {
+		"file": "Person white hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc6f": {
+		"file": "Person with bunny ears",
+		"color": "efe7f3"
+	},
+	"\ud83e\udec5": {
+		"file": "Person with crown",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udc72": {
+		"file": "Person with skullcap",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc70": {
+		"file": "Person with veil",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83e\uddaf": {
+		"file": "Person with white cane",
+		"color": "ededed"
+	},
+	"\ud83e\udd3c": {
+		"file": "Person wrestling",
+		"color": "ffeadb"
+	},
+	"\ud83e\udddf": {
+		"file": "Person zombie",
+		"color": "e9f0ee"
+	},
+	"\ud83e\uddeb": {
+		"file": "Petri dish",
+		"color": "dbf9ff"
+	},
+	"\u26cf\ufe0f": {
+		"file": "Pick",
+		"color": "ededed"
+	},
+	"\ud83d\udefb": {
+		"file": "Pickup truck",
+		"color": "f7e2f0"
+	},
+	"\ud83e\udd67": {
+		"file": "Pie",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc16": {
+		"file": "Pig",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udc37": {
+		"file": "Pig face",
+		"color": "ffdbf9"
+	},
+	"\ud83d\udc3d": {
+		"file": "Pig nose",
+		"color": "ffdbf9"
+	},
+	"\ud83d\udca9": {
+		"file": "Pile of poo",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udc8a": {
+		"file": "Pill",
+		"color": "ffdbdb"
+	},
+	"\ud83e\uddd1\u200d\u2708\ufe0f": {
+		"file": "Pilot",
+		"color": "e9ebf0"
+	},
+	"\ud83e\udd0c": {
+		"file": "Pinched fingers",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd0f": {
+		"file": "Pinching hand",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf8d": {
+		"file": "Pine decoration",
+		"color": "ebf0e9"
+	},
+	"\ud83c\udf4d": {
+		"file": "Pineapple",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfd3": {
+		"file": "Ping pong",
+		"color": "f7e2f7"
+	},
+	"\ud83c\udff4\u200d\u2620\ufe0f": {
+		"file": "Pirate flag",
+		"color": "ededed"
+	},
+	"\u2653": {
+		"file": "Pisces",
+		"color": "dbdbff"
+	},
+	"\ud83c\udf55": {
+		"file": "Pizza",
+		"color": "ffeadb"
+	},
+	"\ud83e\ude85": {
+		"file": "Pi\u00f1ata",
+		"color": "f0e4f6"
+	},
+	"\ud83e\udea7": {
+		"file": "Placard",
+		"color": "ffe1db"
+	},
+	"\ud83d\uded0": {
+		"file": "Place of worship",
+		"color": "dbdbff"
+	},
+	"\u25b6\ufe0f": {
+		"file": "Play button",
+		"color": "dbf3ff"
+	},
+	"\u23ef\ufe0f": {
+		"file": "Play or pause button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udedd": {
+		"file": "Playground slide",
+		"color": "f7e2f0"
+	},
+	"\ud83e\udd7a": {
+		"file": "Pleading face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udea0": {
+		"file": "Plunger",
+		"color": "ffdbf0"
+	},
+	"\u2795": {
+		"file": "Plus",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc3b\u200d\u2744\ufe0f": {
+		"file": "Polar bear",
+		"color": "dbe7ff"
+	},
+	"\ud83d\ude93": {
+		"file": "Police car",
+		"color": "dbffff"
+	},
+	"\ud83d\udea8": {
+		"file": "Police car light",
+		"color": "ffdbf3"
+	},
+	"\ud83d\udc6e": {
+		"file": "Police officer",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc29": {
+		"file": "Poodle",
+		"color": "ededed"
+	},
+	"\ud83c\udfb1": {
+		"file": "Pool 8 ball",
+		"color": "ededed"
+	},
+	"\ud83c\udf7f": {
+		"file": "Popcorn",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfe4": {
+		"file": "Post office",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcef": {
+		"file": "Postal horn",
+		"color": "ffe1db"
+	},
+	"\ud83d\udcee": {
+		"file": "Postbox",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf72": {
+		"file": "Pot of food",
+		"color": "ffe1db"
+	},
+	"\ud83d\udeb0": {
+		"file": "Potable water",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd54": {
+		"file": "Potato",
+		"color": "f6e7e4"
+	},
+	"\ud83e\udeb4": {
+		"file": "Potted plant",
+		"color": "f7f7e2"
+	},
+	"\ud83c\udf57": {
+		"file": "Poultry leg",
+		"color": "f6e4e4"
+	},
+	"\ud83d\udcb7": {
+		"file": "Pound banknote",
+		"color": "e7e4f6"
+	},
+	"\ud83e\uded7": {
+		"file": "Pouring liquid",
+		"color": "dbfff3"
+	},
+	"\ud83d\ude3e": {
+		"file": "Pouting cat",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude21": {
+		"file": "Pouting face",
+		"color": "f7e2e2"
+	},
+	"\ud83d\udcff": {
+		"file": "Prayer beads",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udec3": {
+		"file": "Pregnant man",
+		"color": "ffeadb"
+	},
+	"\ud83e\udec4": {
+		"file": "Pregnant person",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd30": {
+		"file": "Pregnant woman",
+		"color": "e7e4f6"
+	},
+	"\ud83e\udd68": {
+		"file": "Pretzel",
+		"color": "ffe1db"
+	},
+	"": {
+		"file": "Prince",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc78": {
+		"file": "Princess",
+		"color": "ffeadb"
+	},
+	"\ud83d\udda8\ufe0f": {
+		"file": "Printer",
+		"color": "efe7f3"
+	},
+	"\ud83d\udeab": {
+		"file": "Prohibited",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udfe3": {
+		"file": "Purple circle",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udc9c": {
+		"file": "Purple heart",
+		"color": "e1dbff"
+	},
+	"\ud83d\udfea": {
+		"file": "Purple square",
+		"color": "e2e2f7"
+	},
+	"\ud83d\udc5b": {
+		"file": "Purse",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udccc": {
+		"file": "Pushpin",
+		"color": "f7e2f0"
+	},
+	"\ud83e\udde9": {
+		"file": "Puzzle piece",
+		"color": "f6f0e4"
+	},
+	"\ud83d\udc07": {
+		"file": "Rabbit",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc30": {
+		"file": "Rabbit face",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd9d": {
+		"file": "Raccoon",
+		"color": "ededed"
+	},
+	"\ud83c\udfce\ufe0f": {
+		"file": "Racing car",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udcfb": {
+		"file": "Radio",
+		"color": "efe7f3"
+	},
+	"\ud83d\udd18": {
+		"file": "Radio button",
+		"color": "ededed"
+	},
+	"\u2622\ufe0f": {
+		"file": "Radioactive",
+		"color": "ffe7db"
+	},
+	"\ud83d\ude83": {
+		"file": "Railway car",
+		"color": "ffe7db"
+	},
+	"\ud83d\udee4\ufe0f": {
+		"file": "Railway track",
+		"color": "dbfffc"
+	},
+	"\ud83c\udf08": {
+		"file": "Rainbow",
+		"color": "ffe7db"
+	},
+	"\ud83c\udff3\ufe0f\u200d\ud83c\udf08": {
+		"file": "Rainbow flag",
+		"color": "ffdbe4"
+	},
+	"\ud83e\udd1a": {
+		"file": "Raised back of hand",
+		"color": "ffeadb"
+	},
+	"\u270a": {
+		"file": "Raised fist",
+		"color": "ffe1db"
+	},
+	"\u270b": {
+		"file": "Raised hand",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude4c": {
+		"file": "Raising hands",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc0f": {
+		"file": "Ram",
+		"color": "efe7f3"
+	},
+	"\ud83d\udc00": {
+		"file": "Rat",
+		"color": "ededed"
+	},
+	"\ud83e\ude92": {
+		"file": "Razor",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddfe": {
+		"file": "Receipt",
+		"color": "dbe7ff"
+	},
+	"\u23fa\ufe0f": {
+		"file": "Record button",
+		"color": "dbf3ff"
+	},
+	"\u267b\ufe0f": {
+		"file": "Recycling symbol",
+		"color": "e4f6e7"
+	},
+	"\ud83c\udf4e": {
+		"file": "Red apple",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udd34": {
+		"file": "Red circle",
+		"color": "f7e2f0"
+	},
+	"\ud83e\udde7": {
+		"file": "Red envelope",
+		"color": "ffdbf0"
+	},
+	"\u2757": {
+		"file": "Red exclamation mark",
+		"color": "ffdbf0"
+	},
+	"\u2764\ufe0f": {
+		"file": "Red heart",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udfee": {
+		"file": "Red paper lantern",
+		"color": "ffe1db"
+	},
+	"\u2753": {
+		"file": "Red question mark",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udfe5": {
+		"file": "Red square",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udd3a": {
+		"file": "Red triangle",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udd3b": {
+		"file": "Red triangle pointed down",
+		"color": "f7e2f0"
+	},
+	"\u00ae\ufe0f": {
+		"file": "Registered",
+		"color": "ededed"
+	},
+	"\ud83d\ude0c": {
+		"file": "Relieved face",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf97\ufe0f": {
+		"file": "Reminder ribbon",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd01": {
+		"file": "Repeat button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd02": {
+		"file": "Repeat single button",
+		"color": "dbf3ff"
+	},
+	"\u26d1\ufe0f": {
+		"file": "Rescue workers helmet",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udebb": {
+		"file": "Restroom",
+		"color": "dbf3ff"
+	},
+	"\u25c0\ufe0f": {
+		"file": "Reverse button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udc9e": {
+		"file": "Revolving hearts",
+		"color": "ffdbf0"
+	},
+	"\ud83e\udd8f": {
+		"file": "Rhinoceros",
+		"color": "ededed"
+	},
+	"\ud83c\udf80": {
+		"file": "Ribbon",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udf59": {
+		"file": "Rice ball",
+		"color": "e9ebf0"
+	},
+	"\ud83c\udf58": {
+		"file": "Rice cracker",
+		"color": "f6e7e4"
+	},
+	"\ud83d\uddef\ufe0f": {
+		"file": "Right anger bubble",
+		"color": "dbe7ff"
+	},
+	"\u27a1\ufe0f": {
+		"file": "Right arrow",
+		"color": "dbf3ff"
+	},
+	"\u2935\ufe0f": {
+		"file": "Right arrow curving down",
+		"color": "dbf3ff"
+	},
+	"\u21a9\ufe0f": {
+		"file": "Right arrow curving left",
+		"color": "dbf3ff"
+	},
+	"\u2934\ufe0f": {
+		"file": "Right arrow curving up",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd1c": {
+		"file": "Right-facing fist",
+		"color": "ffeadb"
+	},
+	"\ud83e\udef1": {
+		"file": "Rightwards hand",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc8d": {
+		"file": "Ring",
+		"color": "efe7f3"
+	},
+	"\ud83d\udedf": {
+		"file": "Ring buoy",
+		"color": "ffdbf0"
+	},
+	"\ud83e\ude90": {
+		"file": "Ringed planet",
+		"color": "ffe1db"
+	},
+	"\ud83c\udf60": {
+		"file": "Roasted sweet potato",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd16": {
+		"file": "Robot",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udea8": {
+		"file": "Rock",
+		"color": "ededed"
+	},
+	"\ud83d\ude80": {
+		"file": "Rocket",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddfb": {
+		"file": "Roll of paper",
+		"color": "f3e7e7"
+	},
+	"\ud83d\uddde\ufe0f": {
+		"file": "Rolled-up newspaper",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udfa2": {
+		"file": "Roller coaster",
+		"color": "ededed"
+	},
+	"\ud83d\udefc": {
+		"file": "Roller skate",
+		"color": "ffdbf3"
+	},
+	"\ud83e\udd23": {
+		"file": "Rolling on the floor laughing",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc13": {
+		"file": "Rooster",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf39": {
+		"file": "Rose",
+		"color": "f7e2e2"
+	},
+	"\ud83c\udff5\ufe0f": {
+		"file": "Rosette",
+		"color": "ffe1db"
+	},
+	"\ud83d\udccd": {
+		"file": "Round pushpin",
+		"color": "f7e2f0"
+	},
+	"\ud83c\udfc9": {
+		"file": "Rugby football",
+		"color": "ffe1db"
+	},
+	"\ud83c\udfbd": {
+		"file": "Running shirt",
+		"color": "ebf0e9"
+	},
+	"\ud83d\udc5f": {
+		"file": "Running shoe",
+		"color": "e7ebf3"
+	},
+	"\ud83d\ude25": {
+		"file": "Sad but relieved face",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddf7": {
+		"file": "Safety pin",
+		"color": "dbe7ff"
+	},
+	"\ud83e\uddba": {
+		"file": "Safety vest",
+		"color": "ffdbe4"
+	},
+	"\u2650": {
+		"file": "Sagittarius",
+		"color": "dbdbff"
+	},
+	"\u26f5": {
+		"file": "Sailboat",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udf76": {
+		"file": "Sake",
+		"color": "dbe7ff"
+	},
+	"\ud83e\uddc2": {
+		"file": "Salt",
+		"color": "dbfff3"
+	},
+	"\ud83e\udee1": {
+		"file": "Saluting face",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd6a": {
+		"file": "Sandwich",
+		"color": "fff3db"
+	},
+	"\ud83c\udf85": {
+		"file": "Santa claus",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd7b": {
+		"file": "Sari",
+		"color": "e4f6f0"
+	},
+	"\ud83d\udef0\ufe0f": {
+		"file": "Satellite",
+		"color": "ededed"
+	},
+	"\ud83d\udce1": {
+		"file": "Satellite antenna",
+		"color": "ededed"
+	},
+	"\ud83e\udd95": {
+		"file": "Sauropod",
+		"color": "e4f6e7"
+	},
+	"\ud83c\udfb7": {
+		"file": "Saxophone",
+		"color": "f7e9e2"
+	},
+	"\ud83e\udde3": {
+		"file": "Scarf",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udfeb": {
+		"file": "School",
+		"color": "ffe1db"
+	},
+	"\ud83e\uddd1\u200d\ud83d\udd2c": {
+		"file": "Scientist",
+		"color": "dbe7ff"
+	},
+	"\u2702\ufe0f": {
+		"file": "Scissors",
+		"color": "ffdbf0"
+	},
+	"\u264f": {
+		"file": "Scorpio",
+		"color": "dbdbff"
+	},
+	"\ud83e\udd82": {
+		"file": "Scorpion",
+		"color": "f3e7e7"
+	},
+	"\ud83e\ude9b": {
+		"file": "Screwdriver",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udcdc": {
+		"file": "Scroll",
+		"color": "ffe1db"
+	},
+	"\ud83e\uddad": {
+		"file": "Seal",
+		"color": "ededed"
+	},
+	"\ud83d\udcba": {
+		"file": "Seat",
+		"color": "dbffff"
+	},
+	"\ud83d\ude48": {
+		"file": "See-no-evil monkey",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf31": {
+		"file": "Seedling",
+		"color": "f7f7e2"
+	},
+	"\ud83e\udd33": {
+		"file": "Selfie",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udc15\u200d\ud83e\uddba": {
+		"file": "Service dog",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udd56": {
+		"file": "Seven oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd62": {
+		"file": "Seven-thirty",
+		"color": "ededed"
+	},
+	"\ud83e\udea1": {
+		"file": "Sewing needle",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udd58": {
+		"file": "Shallow pan of food",
+		"color": "ffeadb"
+	},
+	"\u2618\ufe0f": {
+		"file": "Shamrock",
+		"color": "eaf6e4"
+	},
+	"\ud83e\udd88": {
+		"file": "Shark",
+		"color": "ededed"
+	},
+	"\ud83c\udf67": {
+		"file": "Shaved ice",
+		"color": "ffdbf9"
+	},
+	"\ud83c\udf3e": {
+		"file": "Sheaf of rice",
+		"color": "ebf0e9"
+	},
+	"\ud83d\udee1\ufe0f": {
+		"file": "Shield",
+		"color": "dbf9ff"
+	},
+	"\u26e9\ufe0f": {
+		"file": "Shinto shrine",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udea2": {
+		"file": "Ship",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf20": {
+		"file": "Shooting star",
+		"color": "ededed"
+	},
+	"\ud83d\udecd\ufe0f": {
+		"file": "Shopping bags",
+		"color": "dbf9ff"
+	},
+	"\ud83d\uded2": {
+		"file": "Shopping cart",
+		"color": "ededed"
+	},
+	"\ud83c\udf70": {
+		"file": "Shortcake",
+		"color": "ffe1db"
+	},
+	"\ud83e\ude73": {
+		"file": "Shorts",
+		"color": "dbffdb"
+	},
+	"\ud83d\udebf": {
+		"file": "Shower",
+		"color": "ededed"
+	},
+	"\ud83e\udd90": {
+		"file": "Shrimp",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udd00": {
+		"file": "Shuffle tracks button",
+		"color": "dbf3ff"
+	},
+	"\ud83e\udd2b": {
+		"file": "Shushing face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd18": {
+		"file": "Sign of the horns",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udfa4": {
+		"file": "Singer",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd55": {
+		"file": "Six oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd61": {
+		"file": "Six-thirty",
+		"color": "ededed"
+	},
+	"\ud83d\udef9": {
+		"file": "Skateboard",
+		"color": "efe7f3"
+	},
+	"\u26f7\ufe0f": {
+		"file": "Skier",
+		"color": "ffdbe4"
+	},
+	"\ud83c\udfbf": {
+		"file": "Skis",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udc80": {
+		"file": "Skull",
+		"color": "dbe7ff"
+	},
+	"\u2620\ufe0f": {
+		"file": "Skull and crossbones",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udda8": {
+		"file": "Skunk",
+		"color": "ededed"
+	},
+	"\ud83d\udef7": {
+		"file": "Sled",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude34": {
+		"file": "Sleeping face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude2a": {
+		"file": "Sleepy face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude41": {
+		"file": "Slightly frowning face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude42": {
+		"file": "Slightly smiling face",
+		"color": "ffe1db"
+	},
+	"\ud83c\udfb0": {
+		"file": "Slot machine",
+		"color": "efe7f3"
+	},
+	"\ud83e\udda5": {
+		"file": "Sloth",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udee9\ufe0f": {
+		"file": "Small airplane",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udd39": {
+		"file": "Small blue diamond",
+		"color": "e2f0f7"
+	},
+	"\ud83d\udd38": {
+		"file": "Small orange diamond",
+		"color": "ffdbe4"
+	},
+	"\ud83d\ude3b": {
+		"file": "Smiling cat with heart-eyes",
+		"color": "ffe1db"
+	},
+	"\u263a\ufe0f": {
+		"file": "Smiling face",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude07": {
+		"file": "Smiling face with halo",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude0d": {
+		"file": "Smiling face with heart-eyes",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd70": {
+		"file": "Smiling face with hearts",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude08": {
+		"file": "Smiling face with horns",
+		"color": "eee9f0"
+	},
+	"\ud83d\ude0a": {
+		"file": "Smiling face with smiling eyes",
+		"color": "ffdbdb"
+	},
+	"\ud83d\ude0e": {
+		"file": "Smiling face with sunglasses",
+		"color": "e7ebf3"
+	},
+	"\ud83e\udd72": {
+		"file": "Smiling face with tear",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude0f": {
+		"file": "Smirking face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc0c": {
+		"file": "Snail",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udc0d": {
+		"file": "Snake",
+		"color": "e4f6e7"
+	},
+	"\ud83e\udd27": {
+		"file": "Sneezing face",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfd4\ufe0f": {
+		"file": "Snow-capped mountain",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udfc2": {
+		"file": "Snowboarder",
+		"color": "dbf9ff"
+	},
+	"\u2744\ufe0f": {
+		"file": "Snowflake",
+		"color": "dbf9ff"
+	},
+	"\u2603\ufe0f": {
+		"file": "Snowman",
+		"color": "e7ebf3"
+	},
+	"\u26c4": {
+		"file": "Snowman without snow",
+		"color": "e7ebf3"
+	},
+	"\ud83e\uddfc": {
+		"file": "Soap",
+		"color": "ffdbff"
+	},
+	"\u26bd": {
+		"file": "Soccer ball",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udde6": {
+		"file": "Socks",
+		"color": "e2f7e9"
+	},
+	"\ud83c\udf66": {
+		"file": "Soft ice cream",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd4e": {
+		"file": "Softball",
+		"color": "f7f7e2"
+	},
+	"\ud83d\udd1c": {
+		"file": "Soon arrow",
+		"color": "ededed"
+	},
+	"\ud83c\udd98": {
+		"file": "Sos button",
+		"color": "ffdbf3"
+	},
+	"\u2660\ufe0f": {
+		"file": "Spade suit",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udf5d": {
+		"file": "Spaghetti",
+		"color": "f7e9e2"
+	},
+	"\u2747\ufe0f": {
+		"file": "Sparkle",
+		"color": "e4f6e7"
+	},
+	"\ud83c\udf87": {
+		"file": "Sparkler",
+		"color": "ededed"
+	},
+	"\u2728": {
+		"file": "Sparkles",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc96": {
+		"file": "Sparkling heart",
+		"color": "ffdbf0"
+	},
+	"\ud83d\ude4a": {
+		"file": "Speak-no-evil monkey",
+		"color": "f0e9e9"
+	},
+	"\ud83d\udd0a": {
+		"file": "Speaker high volume",
+		"color": "ededed"
+	},
+	"\ud83d\udd08": {
+		"file": "Speaker low volume",
+		"color": "ededed"
+	},
+	"\ud83d\udd09": {
+		"file": "Speaker medium volume",
+		"color": "ededed"
+	},
+	"\ud83d\udde3\ufe0f": {
+		"file": "Speaking head",
+		"color": "ededed"
+	},
+	"\ud83d\udcac": {
+		"file": "Speech balloon",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udea4": {
+		"file": "Speedboat",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd77\ufe0f": {
+		"file": "Spider",
+		"color": "ededed"
+	},
+	"\ud83d\udd78\ufe0f": {
+		"file": "Spider web",
+		"color": "efe7f3"
+	},
+	"\ud83d\uddd3\ufe0f": {
+		"file": "Spiral calendar",
+		"color": "dbe7ff"
+	},
+	"\ud83d\uddd2\ufe0f": {
+		"file": "Spiral notepad",
+		"color": "f3dbff"
+	},
+	"\ud83d\udc1a": {
+		"file": "Spiral shell",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddfd": {
+		"file": "Sponge",
+		"color": "ffdbdb"
+	},
+	"\ud83e\udd44": {
+		"file": "Spoon",
+		"color": "e7ebf3"
+	},
+	"\ud83d\ude99": {
+		"file": "Sport utility vehicle",
+		"color": "e2f0f7"
+	},
+	"\ud83c\udfc5": {
+		"file": "Sports medal",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc33": {
+		"file": "Spouting whale",
+		"color": "dbffff"
+	},
+	"\ud83e\udd91": {
+		"file": "Squid",
+		"color": "f7e2f7"
+	},
+	"\ud83d\ude1d": {
+		"file": "Squinting face with tongue",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfdf\ufe0f": {
+		"file": "Stadium",
+		"color": "ededed"
+	},
+	"\u2b50": {
+		"file": "Star",
+		"color": "ffeadb"
+	},
+	"\u262a\ufe0f": {
+		"file": "Star and crescent",
+		"color": "e7e4f6"
+	},
+	"\u2721\ufe0f": {
+		"file": "Star of david",
+		"color": "e7e4f6"
+	},
+	"\ud83e\udd29": {
+		"file": "Star-struck",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude89": {
+		"file": "Station",
+		"color": "dbffff"
+	},
+	"\ud83d\uddfd": {
+		"file": "Statue of liberty",
+		"color": "e4f6f0"
+	},
+	"\ud83c\udf5c": {
+		"file": "Steaming bowl",
+		"color": "f7e2f0"
+	},
+	"\ud83e\ude7a": {
+		"file": "Stethoscope",
+		"color": "e7e4f6"
+	},
+	"\u23f9\ufe0f": {
+		"file": "Stop button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\uded1": {
+		"file": "Stop sign",
+		"color": "f7e2f0"
+	},
+	"\u23f1\ufe0f": {
+		"file": "Stopwatch",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udccf": {
+		"file": "Straight ruler",
+		"color": "dbdbff"
+	},
+	"\ud83c\udf53": {
+		"file": "Strawberry",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udf93": {
+		"file": "Student",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf99\ufe0f": {
+		"file": "Studio microphone",
+		"color": "ededed"
+	},
+	"\ud83e\udd59": {
+		"file": "Stuffed flatbread",
+		"color": "ffe1db"
+	},
+	"\u2600\ufe0f": {
+		"file": "Sun",
+		"color": "ffeadb"
+	},
+	"\u26c5": {
+		"file": "Sun behind cloud",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf25\ufe0f": {
+		"file": "Sun behind large cloud",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf26\ufe0f": {
+		"file": "Sun behind rain cloud",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udf24\ufe0f": {
+		"file": "Sun behind small cloud",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf1e": {
+		"file": "Sun with face",
+		"color": "ffe1db"
+	},
+	"\ud83c\udf3b": {
+		"file": "Sunflower",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd76\ufe0f": {
+		"file": "Sunglasses",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udf05": {
+		"file": "Sunrise",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udf04": {
+		"file": "Sunrise over mountains",
+		"color": "e7f3ef"
+	},
+	"\ud83c\udf07": {
+		"file": "Sunset",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf63": {
+		"file": "Sushi",
+		"color": "efe7f3"
+	},
+	"\ud83d\ude9f": {
+		"file": "Suspension railway",
+		"color": "dbfff3"
+	},
+	"\ud83e\udda2": {
+		"file": "Swan",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udca6": {
+		"file": "Sweat droplets",
+		"color": "dbffff"
+	},
+	"\ud83d\udd4d": {
+		"file": "Synagogue",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc89": {
+		"file": "Syringe",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd96": {
+		"file": "T-rex",
+		"color": "e2f7e9"
+	},
+	"\ud83d\udc55": {
+		"file": "T-shirt",
+		"color": "f3f6e4"
+	},
+	"\ud83c\udf2e": {
+		"file": "Taco",
+		"color": "ffe7db"
+	},
+	"\ud83e\udd61": {
+		"file": "Takeout box",
+		"color": "dbe7ff"
+	},
+	"\ud83e\uded4": {
+		"file": "Tamale",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf8b": {
+		"file": "Tanabata tree",
+		"color": "ebf0e9"
+	},
+	"\ud83c\udf4a": {
+		"file": "Tangerine",
+		"color": "ffe1db"
+	},
+	"\u2649": {
+		"file": "Taurus",
+		"color": "dbdbff"
+	},
+	"\ud83d\ude95": {
+		"file": "Taxi",
+		"color": "ffe7db"
+	},
+	"\ud83e\uddd1\u200d\ud83c\udfeb": {
+		"file": "Teacher",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf75": {
+		"file": "Teacup without handle",
+		"color": "ededed"
+	},
+	"\ud83e\uded6": {
+		"file": "Teapot",
+		"color": "ffdbf9"
+	},
+	"\ud83d\udcc6": {
+		"file": "Tear-off calendar",
+		"color": "dbe7ff"
+	},
+	"\ud83e\uddf8": {
+		"file": "Teddy bear",
+		"color": "f7e2e2"
+	},
+	"\u260e\ufe0f": {
+		"file": "Telephone",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udcde": {
+		"file": "Telephone receiver",
+		"color": "f7e2f7"
+	},
+	"\ud83d\udd2d": {
+		"file": "Telescope",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udcfa": {
+		"file": "Television",
+		"color": "dbffff"
+	},
+	"\ud83d\udd59": {
+		"file": "Ten oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd65": {
+		"file": "Ten-thirty",
+		"color": "ededed"
+	},
+	"\ud83c\udfbe": {
+		"file": "Tennis",
+		"color": "f7e2f0"
+	},
+	"\u26fa": {
+		"file": "Tent",
+		"color": "eaf6e4"
+	},
+	"\ud83e\uddea": {
+		"file": "Test tube",
+		"color": "f9ffdb"
+	},
+	"\ud83c\udf21\ufe0f": {
+		"file": "Thermometer",
+		"color": "dbf9ff"
+	},
+	"\ud83e\udd14": {
+		"file": "Thinking face",
+		"color": "ffeadb"
+	},
+	"\ud83e\ude74": {
+		"file": "Thong sandal",
+		"color": "dbf0ff"
+	},
+	"\ud83d\udcad": {
+		"file": "Thought balloon",
+		"color": "dbe7ff"
+	},
+	"\ud83e\uddf5": {
+		"file": "Thread",
+		"color": "e2f0f7"
+	},
+	"\ud83d\udd52": {
+		"file": "Three oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd5e": {
+		"file": "Three-thirty",
+		"color": "ededed"
+	},
+	"\ud83d\udc4e": {
+		"file": "Thumbs down",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc4d": {
+		"file": "Thumbs up",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfab": {
+		"file": "Ticket",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc05": {
+		"file": "Tiger",
+		"color": "ffdbe4"
+	},
+	"\ud83d\udc2f": {
+		"file": "Tiger face",
+		"color": "f7e2e2"
+	},
+	"\u23f2\ufe0f": {
+		"file": "Timer clock",
+		"color": "ededed"
+	},
+	"\ud83d\ude2b": {
+		"file": "Tired face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udebd": {
+		"file": "Toilet",
+		"color": "efe7f3"
+	},
+	"\ud83d\uddfc": {
+		"file": "Tokyo tower",
+		"color": "ffdbe4"
+	},
+	"\ud83c\udf45": {
+		"file": "Tomato",
+		"color": "ffdbf9"
+	},
+	"\ud83d\udc45": {
+		"file": "Tongue",
+		"color": "e7dbff"
+	},
+	"\ud83e\uddf0": {
+		"file": "Toolbox",
+		"color": "ffdbf0"
+	},
+	"\ud83e\uddb7": {
+		"file": "Tooth",
+		"color": "ededed"
+	},
+	"\ud83e\udea5": {
+		"file": "Toothbrush",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udd1d": {
+		"file": "Top arrow",
+		"color": "ededed"
+	},
+	"\ud83c\udfa9": {
+		"file": "Top hat",
+		"color": "efe7f3"
+	},
+	"\ud83c\udf2a\ufe0f": {
+		"file": "Tornado",
+		"color": "ededed"
+	},
+	"\ud83d\uddb2\ufe0f": {
+		"file": "Trackball",
+		"color": "e9ebf0"
+	},
+	"\ud83d\ude9c": {
+		"file": "Tractor",
+		"color": "e2f7e2"
+	},
+	"\u2122\ufe0f": {
+		"file": "Trade mark",
+		"color": "ededed"
+	},
+	"\ud83d\ude86": {
+		"file": "Train",
+		"color": "ededed"
+	},
+	"\ud83d\ude8a": {
+		"file": "Tram",
+		"color": "dbffff"
+	},
+	"\ud83d\ude8b": {
+		"file": "Tram car",
+		"color": "ffdbf0"
+	},
+	"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f": {
+		"file": "Transgender flag",
+		"color": "ffdbdb"
+	},
+	"\u26a7\ufe0f": {
+		"file": "Transgender symbol",
+		"color": "dbdbff"
+	},
+	"\ud83d\udea9": {
+		"file": "Triangular flag",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udcd0": {
+		"file": "Triangular ruler",
+		"color": "efe7f3"
+	},
+	"\ud83d\udd31": {
+		"file": "Trident emblem",
+		"color": "ffe1db"
+	},
+	"\ud83e\uddcc": {
+		"file": "Troll",
+		"color": "f0e9e9"
+	},
+	"\ud83d\ude8e": {
+		"file": "Trolleybus",
+		"color": "f3dbff"
+	},
+	"\ud83c\udfc6": {
+		"file": "Trophy",
+		"color": "f0e9e9"
+	},
+	"\ud83c\udf79": {
+		"file": "Tropical drink",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc20": {
+		"file": "Tropical fish",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udfba": {
+		"file": "Trumpet",
+		"color": "f7e9e2"
+	},
+	"\ud83c\udf37": {
+		"file": "Tulip",
+		"color": "f7e2f7"
+	},
+	"\ud83e\udd43": {
+		"file": "Tumbler glass",
+		"color": "dbfff3"
+	},
+	"\ud83e\udd83": {
+		"file": "Turkey",
+		"color": "f3e7e7"
+	},
+	"\ud83d\udc22": {
+		"file": "Turtle",
+		"color": "e4f6f0"
+	},
+	"\ud83d\udd5b": {
+		"file": "Twelve oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udd67": {
+		"file": "Twelve-thirty",
+		"color": "ededed"
+	},
+	"\ud83d\udc95": {
+		"file": "Two hearts",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udd51": {
+		"file": "Two oclock",
+		"color": "ededed"
+	},
+	"\ud83d\udc2b": {
+		"file": "Two-hump camel",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udd5d": {
+		"file": "Two-thirty",
+		"color": "ededed"
+	},
+	"\u2602\ufe0f": {
+		"file": "Umbrella",
+		"color": "e9ebf0"
+	},
+	"\u26f1\ufe0f": {
+		"file": "Umbrella on ground",
+		"color": "ffe7db"
+	},
+	"\u2614": {
+		"file": "Umbrella with rain drops",
+		"color": "e9ebf0"
+	},
+	"\ud83d\ude12": {
+		"file": "Unamused face",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd84": {
+		"file": "Unicorn",
+		"color": "e1dbff"
+	},
+	"\ud83d\udd13": {
+		"file": "Unlocked",
+		"color": "ffdbdb"
+	},
+	"\u2b06\ufe0f": {
+		"file": "Up arrow",
+		"color": "dbf3ff"
+	},
+	"\ud83c\udd99": {
+		"file": "Up! button",
+		"color": "dbf3ff"
+	},
+	"\u2195\ufe0f": {
+		"file": "Up-down arrow",
+		"color": "dbf3ff"
+	},
+	"\u2196\ufe0f": {
+		"file": "Up-left arrow",
+		"color": "dbf3ff"
+	},
+	"\u2197\ufe0f": {
+		"file": "Up-right arrow",
+		"color": "dbf3ff"
+	},
+	"\ud83d\ude43": {
+		"file": "Upside-down face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd3c": {
+		"file": "Upwards button",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udea6": {
+		"file": "Vertical traffic light",
+		"color": "ededed"
+	},
+	"\ud83d\udcf3": {
+		"file": "Vibration mode",
+		"color": "ffdbdb"
+	},
+	"\u270c\ufe0f": {
+		"file": "Victory hand",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcf9": {
+		"file": "Video camera",
+		"color": "efe7f3"
+	},
+	"\ud83d\udcfc": {
+		"file": "Videocassette",
+		"color": "e9ebf0"
+	},
+	"\ud83c\udfbb": {
+		"file": "Violin",
+		"color": "f0e9e9"
+	},
+	"\u264d": {
+		"file": "Virgo",
+		"color": "dbdbff"
+	},
+	"\ud83c\udf0b": {
+		"file": "Volcano",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udfd0": {
+		"file": "Volleyball",
+		"color": "efe7f3"
+	},
+	"\ud83c\udd9a": {
+		"file": "Vs button",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udd96": {
+		"file": "Vulcan salute",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddc7": {
+		"file": "Waffle",
+		"color": "ffdbdb"
+	},
+	"\ud83c\udf18": {
+		"file": "Waning crescent moon",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf16": {
+		"file": "Waning gibbous moon",
+		"color": "ffe7db"
+	},
+	"\u26a0\ufe0f": {
+		"file": "Warning",
+		"color": "ffdbdb"
+	},
+	"\ud83d\uddd1\ufe0f": {
+		"file": "Wastebasket",
+		"color": "e7ebf3"
+	},
+	"\u231a": {
+		"file": "Watch",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc03": {
+		"file": "Water buffalo",
+		"color": "ededed"
+	},
+	"\ud83d\udebe": {
+		"file": "Water closet",
+		"color": "dbf3ff"
+	},
+	"\ud83d\udd2b": {
+		"file": "Water pistol",
+		"color": "f3ffdb"
+	},
+	"\ud83c\udf0a": {
+		"file": "Water wave",
+		"color": "dbf9ff"
+	},
+	"\ud83c\udf49": {
+		"file": "Watermelon",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udc4b": {
+		"file": "Waving hand",
+		"color": "ffeadb"
+	},
+	"\u3030\ufe0f": {
+		"file": "Wavy dash",
+		"color": "e7ebf3"
+	},
+	"\ud83c\udf12": {
+		"file": "Waxing crescent moon",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udf14": {
+		"file": "Waxing gibbous moon",
+		"color": "ffe7db"
+	},
+	"\ud83d\ude40": {
+		"file": "Weary cat",
+		"color": "ffe1db"
+	},
+	"\ud83d\ude29": {
+		"file": "Weary face",
+		"color": "ffe1db"
+	},
+	"\ud83d\udc92": {
+		"file": "Wedding",
+		"color": "ffdbdb"
+	},
+	"\ud83d\udc0b": {
+		"file": "Whale",
+		"color": "dbffff"
+	},
+	"\ud83d\udede": {
+		"file": "Wheel",
+		"color": "f0e9e9"
+	},
+	"\u2638\ufe0f": {
+		"file": "Wheel of dharma",
+		"color": "e7e4f6"
+	},
+	"\u267f": {
+		"file": "Wheelchair symbol",
+		"color": "dbf3ff"
+	},
+	"\ud83e\uddaf": {
+		"file": "White cane",
+		"color": "efe7f3"
+	},
+	"\u26aa": {
+		"file": "White circle",
+		"color": "efe7f3"
+	},
+	"\u2755": {
+		"file": "White exclamation mark",
+		"color": "dbe7ff"
+	},
+	"\ud83c\udff3\ufe0f": {
+		"file": "White flag",
+		"color": "f3dbff"
+	},
+	"\ud83d\udcae": {
+		"file": "White flower",
+		"color": "f3dbff"
+	},
+	"\ud83e\udd0d": {
+		"file": "White heart",
+		"color": "f3dbff"
+	},
+	"\u2b1c": {
+		"file": "White large square",
+		"color": "dbe7ff"
+	},
+	"\u25fb\ufe0f": {
+		"file": "White medium square",
+		"color": "dbe7ff"
+	},
+	"\u25fd": {
+		"file": "White medium-small square",
+		"color": "dbe7ff"
+	},
+	"\u2754": {
+		"file": "White question mark",
+		"color": "dbe7ff"
+	},
+	"\u25ab\ufe0f": {
+		"file": "White small square",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udd33": {
+		"file": "White square button",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd40": {
+		"file": "Wilted flower",
+		"color": "f7e2e2"
+	},
+	"\ud83c\udf90": {
+		"file": "Wind chime",
+		"color": "dbf9ff"
+	},
+	"\ud83c\udf2c\ufe0f": {
+		"file": "Wind face",
+		"color": "e2f7f7"
+	},
+	"\ud83e\ude9f": {
+		"file": "Window",
+		"color": "dbffff"
+	},
+	"\ud83c\udf77": {
+		"file": "Wine glass",
+		"color": "dbfff3"
+	},
+	"\ud83d\ude09": {
+		"file": "Winking face",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude1c": {
+		"file": "Winking face with tongue",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc3a": {
+		"file": "Wolf",
+		"color": "ededed"
+	},
+	"\ud83d\udc69": {
+		"file": "Woman",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83c\udfa8": {
+		"file": "Woman artist",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83d\ude80": {
+		"file": "Woman astronaut",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddb2": {
+		"file": "Woman bald",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd4\u200d\u2640\ufe0f": {
+		"file": "Woman beard",
+		"color": "ffeadb"
+	},
+	"\ud83d\udeb4\u200d\u2640\ufe0f": {
+		"file": "Woman biking",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc71\u200d\u2640\ufe0f": {
+		"file": "Woman blonde hair",
+		"color": "ffe1db"
+	},
+	"\u26f9\ufe0f\u200d\u2640\ufe0f": {
+		"file": "Woman bouncing ball",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude47\u200d\u2640\ufe0f": {
+		"file": "Woman bowing",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd38\u200d\u2640\ufe0f": {
+		"file": "Woman cartwheeling",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd7\u200d\u2640\ufe0f": {
+		"file": "Woman climbing",
+		"color": "ededed"
+	},
+	"\ud83d\udc77\u200d\u2640\ufe0f": {
+		"file": "Woman construction worker",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83c\udf73": {
+		"file": "Woman cook",
+		"color": "dbe7ff"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddb1": {
+		"file": "Woman curly hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc83": {
+		"file": "Woman dancing",
+		"color": "f7e2e2"
+	},
+	"\ud83e\uddcf\u200d\u2640\ufe0f": {
+		"file": "Woman deaf",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd75\ufe0f\u200d\u2640\ufe0f": {
+		"file": "Woman detective",
+		"color": "e9ebf0"
+	},
+	"\ud83e\udddd\u200d\u2640\ufe0f": {
+		"file": "Woman elf",
+		"color": "e7e4f6"
+	},
+	"\ud83e\udd26\u200d\u2640\ufe0f": {
+		"file": "Woman facepalming",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83c\udfed": {
+		"file": "Woman factory worker",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddda\u200d\u2640\ufe0f": {
+		"file": "Woman fairy",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83c\udf3e": {
+		"file": "Woman farmer",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc69\u200d\ud83c\udf7c": {
+		"file": "Woman feeding baby",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83d\ude92": {
+		"file": "Woman firefighter",
+		"color": "f7e2f0"
+	},
+	"\ud83d\ude4d\u200d\u2640\ufe0f": {
+		"file": "Woman frowning",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddde\u200d\u2640\ufe0f": {
+		"file": "Woman genie",
+		"color": "dbffff"
+	},
+	"\ud83d\ude45\u200d\u2640\ufe0f": {
+		"file": "Woman gesturing no",
+		"color": "e7e4f6"
+	},
+	"\ud83d\ude46\u200d\u2640\ufe0f": {
+		"file": "Woman gesturing ok",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udc87\u200d\u2640\ufe0f": {
+		"file": "Woman getting haircut",
+		"color": "e7e4f6"
+	},
+	"\ud83d\udc86\u200d\u2640\ufe0f": {
+		"file": "Woman getting massage",
+		"color": "ffeadb"
+	},
+	"\ud83c\udfcc\ufe0f\u200d\u2640\ufe0f": {
+		"file": "Woman golfing",
+		"color": "ededed"
+	},
+	"\ud83d\udc82\u200d\u2640\ufe0f": {
+		"file": "Woman guard",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc69\u200d\u2695\ufe0f": {
+		"file": "Woman health worker",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd8\u200d\u2640\ufe0f": {
+		"file": "Woman in lotus position",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddbd": {
+		"file": "Woman in manual wheelchair",
+		"color": "e7ebf3"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddbc": {
+		"file": "Woman in motorized wheelchair",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddd6\u200d\u2640\ufe0f": {
+		"file": "Woman in steamy room",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd35\u200d\u2640\ufe0f": {
+		"file": "Woman in tuxedo",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\u2696\ufe0f": {
+		"file": "Woman judge",
+		"color": "efe7f3"
+	},
+	"\ud83e\udd39\u200d\u2640\ufe0f": {
+		"file": "Woman juggling",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddce\u200d\u2640\ufe0f": {
+		"file": "Woman kneeling",
+		"color": "ededed"
+	},
+	"\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f": {
+		"file": "Woman lifting weights",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd9\u200d\u2640\ufe0f": {
+		"file": "Woman mage",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc69\u200d\ud83d\udd27": {
+		"file": "Woman mechanic",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udddc\u200d\u2640\ufe0f": {
+		"file": "Woman merpeople",
+		"color": "ffe1db"
+	},
+	"\ud83d\udeb5\u200d\u2640\ufe0f": {
+		"file": "Woman mountain biking",
+		"color": "e2f7e2"
+	},
+	"\ud83d\udc69\u200d\ud83d\udcbc": {
+		"file": "Woman office worker",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udc69\u200d\u2708\ufe0f": {
+		"file": "Woman pilot",
+		"color": "e9ebf0"
+	},
+	"\ud83e\udd3e\u200d\u2640\ufe0f": {
+		"file": "Woman playing handball",
+		"color": "ffeadb"
+	},
+	"\ud83e\udd3d\u200d\u2640\ufe0f": {
+		"file": "Woman playing water polo",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc6e\u200d\u2640\ufe0f": {
+		"file": "Woman police officer",
+		"color": "dbf9ff"
+	},
+	"\ud83d\ude4e\u200d\u2640\ufe0f": {
+		"file": "Woman pouting",
+		"color": "ffeadb"
+	},
+	"\ud83d\ude4b\u200d\u2640\ufe0f": {
+		"file": "Woman raising hand",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddb0": {
+		"file": "Woman red hair",
+		"color": "f7e2e2"
+	},
+	"\ud83d\udea3\u200d\u2640\ufe0f": {
+		"file": "Woman rowing boat",
+		"color": "dbffff"
+	},
+	"\ud83c\udfc3\u200d\u2640\ufe0f": {
+		"file": "Woman running",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83d\udd2c": {
+		"file": "Woman scientist",
+		"color": "dbe7ff"
+	},
+	"\ud83e\udd37\u200d\u2640\ufe0f": {
+		"file": "Woman shrugging",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83c\udfa4": {
+		"file": "Woman singer",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddcd\u200d\u2640\ufe0f": {
+		"file": "Woman standing",
+		"color": "ededed"
+	},
+	"\ud83d\udc69\u200d\ud83c\udf93": {
+		"file": "Woman student",
+		"color": "efe7f3"
+	},
+	"\ud83e\uddb8\u200d\u2640\ufe0f": {
+		"file": "Woman superhero",
+		"color": "dbf9ff"
+	},
+	"\ud83e\uddb9\u200d\u2640\ufe0f": {
+		"file": "Woman supervillain",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udfc4\u200d\u2640\ufe0f": {
+		"file": "Woman surfing",
+		"color": "e7e4f6"
+	},
+	"\ud83c\udfca\u200d\u2640\ufe0f": {
+		"file": "Woman swimming",
+		"color": "dbf9ff"
+	},
+	"\ud83d\udc69\u200d\ud83c\udfeb": {
+		"file": "Woman teacher",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc81\u200d\u2640\ufe0f": {
+		"file": "Woman tipping hand",
+		"color": "ffeadb"
+	},
+	"\ud83e\udddb\u200d\u2640\ufe0f": {
+		"file": "Woman vampire",
+		"color": "efe7f3"
+	},
+	"\ud83d\udeb6\u200d\u2640\ufe0f": {
+		"file": "Woman walking",
+		"color": "ededed"
+	},
+	"\ud83d\udc73\u200d\u2640\ufe0f": {
+		"file": "Woman wearing turban",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddb3": {
+		"file": "Woman white hair",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc6f\u200d\u2640\ufe0f": {
+		"file": "Woman with bunny ears",
+		"color": "ffeadb"
+	},
+	"\ud83e\uddd5": {
+		"file": "Woman with headscarf",
+		"color": "e9ebf0"
+	},
+	"\ud83d\udc70\u200d\u2640\ufe0f": {
+		"file": "Woman with veil",
+		"color": "ffeadb"
+	},
+	"\ud83d\udc69\u200d\ud83e\uddaf": {
+		"file": "Woman with white cane",
+		"color": "ededed"
+	},
+	"\ud83e\udd3c\u200d\u2640\ufe0f": {
+		"file": "Woman wrestling",
+		"color": "ffeadb"
+	},
+	"\ud83e\udddf\u200d\u2640\ufe0f": {
+		"file": "Woman zombie",
+		"color": "e9f0ee"
+	},
+	"\ud83d\udc62": {
+		"file": "Womans boot",
+		"color": "ffdbf0"
+	},
+	"\ud83d\udc5a": {
+		"file": "Womans clothes",
+		"color": "ffdbff"
+	},
+	"\ud83d\udc52": {
+		"file": "Womans hat",
+		"color": "f6e7e4"
+	},
+	"\ud83d\udc61": {
+		"file": "Womans sandal",
+		"color": "f7e2f0"
+	},
+	"\ud83d\udeba": {
+		"file": "Womens room",
+		"color": "dbdbff"
+	},
+	"\ud83e\udeb5": {
+		"file": "Wood",
+		"color": "f0e9e9"
+	},
+	"\ud83e\udd74": {
+		"file": "Woozy face",
+		"color": "ffeadb"
+	},
+	"\ud83d\uddfa\ufe0f": {
+		"file": "World map",
+		"color": "e2f7f7"
+	},
+	"\ud83e\udeb1": {
+		"file": "Worm",
+		"color": "f6e4f3"
+	},
+	"\ud83d\ude1f": {
+		"file": "Worried face",
+		"color": "ffeadb"
+	},
+	"\ud83c\udf81": {
+		"file": "Wrapped gift",
+		"color": "ffeadb"
+	},
+	"\ud83d\udd27": {
+		"file": "Wrench",
+		"color": "dbe7ff"
+	},
+	"\u270d\ufe0f": {
+		"file": "Writing hand",
+		"color": "ffeadb"
+	},
+	"\ud83e\ude7b": {
+		"file": "X-ray",
+		"color": "ededed"
+	},
+	"\ud83e\uddf6": {
+		"file": "Yarn",
+		"color": "e2f0f7"
+	},
+	"\ud83e\udd71": {
+		"file": "Yawning face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udfe1": {
+		"file": "Yellow circle",
+		"color": "ffe7db"
+	},
+	"\ud83d\udc9b": {
+		"file": "Yellow heart",
+		"color": "ffeadb"
+	},
+	"\ud83d\udfe8": {
+		"file": "Yellow square",
+		"color": "ffeadb"
+	},
+	"\ud83d\udcb4": {
+		"file": "Yen banknote",
+		"color": "f6e7e4"
+	},
+	"\u262f\ufe0f": {
+		"file": "Yin yang",
+		"color": "e7e4f6"
+	},
+	"\ud83e\ude80": {
+		"file": "Yo-yo",
+		"color": "e7e4f6"
+	},
+	"\ud83e\udd2a": {
+		"file": "Zany face",
+		"color": "ffe1db"
+	},
+	"\ud83e\udd93": {
+		"file": "Zebra",
+		"color": "ededed"
+	},
+	"\ud83e\udd10": {
+		"file": "Zipper-mouth face",
+		"color": "ffeadb"
+	},
+	"\ud83d\udca4": {
+		"file": "Zzz",
+		"color": "dbf9ff"
+	}
+}
